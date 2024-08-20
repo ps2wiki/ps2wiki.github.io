@@ -4,7 +4,6 @@ title: SAS Warnings Megapost
 subtitle: Comprehensive list of all Warnings in Save Application System's OSDSYS icons
 author: korax
 categories: [PS2-App-System/SAS]
-tags: sas warnings
 ---
 
 ### Deletion of System Vital Apps:
