@@ -13,7 +13,7 @@ tags: sas
 
 ### Deletion of System Vital Apps:
 
-![Deletion of System Vital Apps](https://github.com/ps2wiki/ps2wiki.github.io/tree/main/assets/post_assets/ps2-app-system/sas/2024/08/19/sas-warnings-megapost/Deletion-of-System-Vital-Apps.png)
+![Deletion of System Vital Apps](https://github.com/ps2wiki/ps2wiki.github.io/tree/main/assets/post_assets/ps2-app-system/sas/2024-08-19-sas-warnings-megapost/Deletion-of-System-Vital-Apps.png)
 
 <ins>**Denotes:**</ins> Deleting this folder shall **remove** essential software and/or drivers from your PS2 MemoryCard. Proceeding ahead will **break** and remove application listings of system vital apps and dependencies.
 
