@@ -5,9 +5,9 @@ subtitle: Swap R2 and X for Pressure Sensitivity
 author: Ripto
 categories: [BlueRetro]
 banner: 
-  image: https://repository-images.githubusercontent.com/198868981/98d05272-da79-4387-97af-7aaa665b2ff9
+  image: https://i.pinimg.com/originals/03/f8/7e/03f87ede1cd889c05b1747d6c7644612.png
   opacity: 0.5
-image: https://repository-images.githubusercontent.com/198868981/98d05272-da79-4387-97af-7aaa665b2ff9
+image: https://i.pinimg.com/originals/03/f8/7e/03f87ede1cd889c05b1747d6c7644612.png
 tags: BlueRetro FAQ Tutorial
 ---
 
