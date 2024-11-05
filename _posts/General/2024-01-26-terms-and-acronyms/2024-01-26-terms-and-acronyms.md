@@ -24,7 +24,7 @@ sidebar: []
 **FHDB** = *"Free HardDrive/HardDisk Boot"* -->
 - internal storage/HDD variation of FMCB for FAT PS2s as well as 70k-Slim PS2s!
 - It is installed onto the internal HDD.
-- Works on 10k to 70k!
+- Works on 10k to 70k! (Note: 10k, 15k and 18k consoles also need a MemoryCard update to boot from HDD)
 -  70k need FMCB to boot FHDB.
 -  it's MBR bootstrap performs quick S.M.A.R.T test, as well as testing sector errors and FileSystem Errors. and kicks the FSCK program to fix errors in case it finds something out of place.
 
