@@ -5,9 +5,9 @@ subtitle: The DualShock 3 (DS3) and DualShock 4 (DS4) controllers, both from Son
 author: Ripto
 categories: [BlueRetro]
 banner: 
-  image: https://i.ytimg.com/vi/nUP3oZXxE-I/maxresdefault.jpg
+  image: https://www.trustedreviews.com/wp-content/uploads/sites/54/2013/08/Sony-PS4-DualShock4-vs-Dual-1.jpg
   opacity: 0.5
-image: https://i.ytimg.com/vi/nUP3oZXxE-I/maxresdefault.jpg
+image: https://www.trustedreviews.com/wp-content/uploads/sites/54/2013/08/Sony-PS4-DualShock4-vs-Dual-1.jpg
 tags: BlueRetro FAQ
 ---
 
