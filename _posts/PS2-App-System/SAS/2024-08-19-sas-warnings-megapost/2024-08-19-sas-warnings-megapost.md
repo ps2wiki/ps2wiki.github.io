@@ -11,5 +11,7 @@ image: https://cdn3.vectorstock.com/i/1000x1000/27/22/warning-caution-tape-black
 tags: sas
 ---
 
-
 <meta http-equiv="refresh" content="0; url=https://ps2wiki.github.io/ps2-app-system/sas/2024/08/19/sas-indicators-and-warnings-megapost.html">
+
+## You should be redirected to [SAS Indicators & Warnings Megapost](https://ps2wiki.github.io/ps2-app-system/sas/2024/08/19/sas-indicators-and-warnings-megapost.html) automatically, if not, click  
+# [HERE](https://ps2wiki.github.io/ps2-app-system/sas/2024/08/19/sas-indicators-and-warnings-megapost.html)
