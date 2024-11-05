@@ -24,7 +24,7 @@ sidebar: []
 **FHDB** = *"Free HardDrive/HardDisk Boot"* -->
 - internal storage/HDD variation of FMCB for FAT PS2s as well as 70k-Slim PS2s!
 - It is installed onto the internal HDD.
-- Works on 10k to 70k!
+- Works on 10k to 70k! (Note: 10k, 15k and 18k consoles also need a memory card update to boot from hdd)
 -  70k need FMCB to boot FHDB.
 
 **OpenTuna** --> A MemoryCard Exploit for the newest PS2-Model (SCPH-90k, with a BOOT-ROM version of 2.30) or PS2-models as well as MemoryCards which are not working with MagicGate.
