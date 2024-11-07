@@ -40,6 +40,12 @@
     <span class="post-author left-vsplit"><i class="fa fa-pencil"></i> {{ post.author | escape }}</span>
     {%- endif -%}
     <span class="post-reading-time left-vsplit"><i class="fa fa-clock-o"></i> {{ reading_time }}</span>
+    {%- if page.wiptag -%}
+    <span class="post-wiptag left-vsplit"><i class="fa-solid fa-wrench"></i></i> {{ page.wiptag | escape }}</span>
+    {%- endif -%}
+    {%- if page.factcheck -%}
+    <span class="post-factcheck left-vsplit"><i class="fa-sharp fa-solid fa-trophy"></i></i></i> {{ page.factcheck | escape }}</span>
+    {%- endif -%}
   </div>
   <div class="post-excerpt">
     {%- if post_image and post_image != 'NO_EXCERPT_IMAGE' -%}
