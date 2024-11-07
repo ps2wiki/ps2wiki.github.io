@@ -128,7 +128,7 @@ The following are indicators present on each SAS compliant application's folder'
 
 ***
 
-<h2>Note:</h2>
+<h2>⚠️ Note:</h2>
 ~~~
 We claim NO responsibility for broken installs. 
 Please DO NOT report your issues to us if you proceed.
