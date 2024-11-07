@@ -52,8 +52,8 @@ The following are indicators present on each SAS compliant application's folder'
 </div>    
 <ins>**Denotes:**</ins> Standard PS2 ELF format file.    
 <ins>**Variants:**</ins> (Standard, Copy, Delete)    
-* #### Copy: <i>Appears when copying the icon</i>  `Left/Green`
-* #### Delete: <i>Appears when deleting the icon</i>  `Right/Red`
+* Copy: <i>Appears when copying the icon</i>  `Left/Green`
+* Delete: <i>Appears when deleting the icon</i>  `Right/Red`
 
 ***
 
@@ -63,7 +63,7 @@ The following are indicators present on each SAS compliant application's folder'
 </div>  
 <ins>**Denotes:**</ins> Crucial system files/folders.   
 <ins>**Variants:**</ins> (Standard, Copy)  
-* #### Copy: <i>Appears when copying the icon</i>  `Right/Open Lock`
+* Copy: <i>Appears when copying the icon</i>  `Right/Open Lock`
 
 ***
 
@@ -73,8 +73,8 @@ The following are indicators present on each SAS compliant application's folder'
 </div>  
 <ins>**Denotes:**</ins> System Configurators.   
 <ins>**Variants:**</ins> (Standard, Copy, Delete)  
-* #### Copy: <i>Appears when copying the icon</i>  `Left/Green`
-* #### Delete: <i>Appears when deleting the icon</i>  `Right/Red`
+* Copy: <i>Appears when copying the icon</i>  `Left/Green`
+* Delete: <i>Appears when deleting the icon</i>  `Right/Red`
  
 ***
 
@@ -126,9 +126,10 @@ The following are indicators present on each SAS compliant application's folder'
 
 ***
 
-<strong><h2>Note:</h2></strong>
+<h2>Note:</h2>
 ~~~
-We claim <b>NO</b> responsibility for broken installs. Please <b>DO NOT</b> report your issues to us if you proceed.
+We claim NO responsibility for broken installs. 
+Please DO NOT report your issues to us if you proceed.
 You have been warned.
 ~~~
 
