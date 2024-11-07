@@ -11,7 +11,7 @@ image: https://cdn3.vectorstock.com/i/1000x1000/27/22/warning-caution-tape-black
 tags: sas
 ---
 
-## Warnings: 
+## ⭐ Warnings: 
 Read these carefully, ignoring these crucial indicators might cause catastrophic loss of data and/or breakage of software.
 
 ***
@@ -33,7 +33,7 @@ Read these carefully, ignoring these crucial indicators might cause catastrophic
 ***
 ***
 
-## Indicators:
+## ⭐ Indicators:
 The following are indicators present on each SAS compliant application's folder's icon and help in undertanding the features, dependencies and usage of the app folder they represent. A description of their variants (if any) is also included.
 
 ***
@@ -78,7 +78,7 @@ The following are indicators present on each SAS compliant application's folder'
  
 ***
 
-### 1. Mini-Gears:  
+### 4. Mini-Gears:  
 <div class="container">
     <img width="400" height="300" src="https://raw.githubusercontent.com/ps2wiki/ps2wiki.github.io/refs/heads/main/_posts/PS2-App-System/SAS/2024-08-19-sas-warnings-megapost/assets/Mini-Gears.png">
 </div> 
@@ -86,7 +86,7 @@ The following are indicators present on each SAS compliant application's folder'
 
 ***
 
-### 4. Mini-RTE:  
+### 5. Mini-RTE:  
 <div class="container">
     <img width="400" height="300" src="https://raw.githubusercontent.com/ps2wiki/ps2wiki.github.io/refs/heads/main/_posts/PS2-App-System/SAS/2024-08-19-sas-warnings-megapost/assets/Mini-RTE.png">
 </div> 
@@ -94,7 +94,7 @@ The following are indicators present on each SAS compliant application's folder'
 
 ***
 
-### 5. Mini-CMDPrompt:  
+### 6. Mini-CMDPrompt:  
 <div class="container">
     <img width="400" height="300" src="https://raw.githubusercontent.com/ps2wiki/ps2wiki.github.io/refs/heads/main/_posts/PS2-App-System/SAS/2024-08-19-sas-warnings-megapost/assets/Mini-CMDPrompt.png">
 </div> 
@@ -102,7 +102,7 @@ The following are indicators present on each SAS compliant application's folder'
 
 ***
 
-### 6. Mini-BDMA:  
+### 7. Mini-BDMA:  
 <div class="container">
     <img width="400" height="300" src="https://raw.githubusercontent.com/ps2wiki/ps2wiki.github.io/refs/heads/main/_posts/PS2-App-System/SAS/2024-08-19-sas-warnings-megapost/assets/Mini-BDMA.png">
 </div> 
@@ -110,7 +110,7 @@ The following are indicators present on each SAS compliant application's folder'
 
 ***
 
-### 7. Mini-Lua:  
+### 8. Mini-Lua:  
 <div class="container">
     <img width="400" height="300" src="https://raw.githubusercontent.com/ps2wiki/ps2wiki.github.io/refs/heads/main/_posts/PS2-App-System/SAS/2024-08-19-sas-warnings-megapost/assets/Mini-Lua.png">
 </div> 
@@ -118,7 +118,7 @@ The following are indicators present on each SAS compliant application's folder'
 
 ***
 
-### 8. Mini-JavaScript:  
+### 9. Mini-JavaScript:  
 <div class="container">
     <img width="400" height="300" src="https://raw.githubusercontent.com/ps2wiki/ps2wiki.github.io/refs/heads/main/_posts/PS2-App-System/SAS/2024-08-19-sas-warnings-megapost/assets/Mini-JS.png">
 </div> 
