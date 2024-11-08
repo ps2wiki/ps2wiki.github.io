@@ -1,5 +1,5 @@
-name: Post has a factual error
-description: Open this when a post has a factual error like missing context or outdated or wrong information.
+name: "Post has a factual error"
+description: "Open this when a post has a factual error like missing context or outdated or wrong information."
 title: "[Post Link]: "
 labels: [factual-error]
 assignees: "koraxial"
