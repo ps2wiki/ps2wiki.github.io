@@ -3,3 +3,16 @@ description: "Open this when a post has a factual error like missing context or 
 title: "[Post Link]: "
 labels: [factual-error]
 assignees: "koraxial"
+body:
+- type: checkboxes
+  id: checkbox
+  attributes:
+      label: Checks
+      description: "Check before posting"
+      options:
+        - label: I have verified the factual correctness and legitimacy my sources to the best of my abilities
+        - label: This issue DOES NOT concern a bug or feature request or new post idea
+  validations:
+      required: true
+
+
