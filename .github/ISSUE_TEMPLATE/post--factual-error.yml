@@ -7,7 +7,7 @@ assignees:
   - koraxial
 body:
 - type: checkboxes
-    id: checks
+    id: checkbox
     validations:
       required: true
     attributes:
