@@ -1,9 +1,7 @@
-name: Post- Factual Error
+name: Post-Factual Error
 description: Open this when a post has a factual error like missing context or outdated or wrong information.
 title: "[Post Link:] "
 labels: [documentation, factual-error]
-assignees:
-  - koraxial
 body:
 - type: checkboxes
   id: checkbox
