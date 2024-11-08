@@ -1,7 +1,7 @@
 name: "Post: Ideas"
 description: "Open this if you have ideas for a new post"
 title: "[Post Idea]: "
-labels: [documentation]
+labels: [documentation, post-idea]
 assignees: "koraxial"
 body:
 - type: checkboxes
@@ -11,7 +11,7 @@ body:
       description: "Check all which apply"
       options:
         - label: I have an idea
-        - label: I have a post somewhere else which i would like to be added to the wiki.
+        - label: I have a post somewhere else which I would like to be added to the PS2Wiki.
         - label: I have an article but it's not uploaded or owned by me. (Permission with proof from Original Author or Owner is required)
   validations:
       required: true
