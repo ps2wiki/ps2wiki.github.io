@@ -18,7 +18,7 @@ body:
 - type: textarea
   id: description
   attributes:
-      label: Detailed description of the issue(s):
+      label: "Detailed description of the issue(s):"
       description: "Describe issue you are facing..."
       placeholder: The article states..which as of..is untrue because of an update to...
   validations:
@@ -27,7 +27,7 @@ body:
 - type: textarea
   id: line_or_para
   attributes:
-      label: Line/paragraph where the issue(s) are:
+      label: "Line/paragraph where the issue(s) are:"
       placeholder: The second paragraph, 4th line, 'The following versions are compatible...' to '...SCPH-79000X'
   validations:
       required: true
@@ -37,7 +37,7 @@ body:
   validations:
       required: true
   attributes:
-      label: Select all which apply:
+      label: "Select all which apply:"
       options:
         - label: The factual inaccuracy occurred after an update/change to the article ON PS2WIKI itself
         - label: An update to the related application or file made the information inaccurate/irrelevant  
@@ -45,7 +45,7 @@ body:
 - type: textarea
   id: my_sources
   attributes:
-      label: My sources are:
+      label: "My sources are:"
       description: "(link any relevant articles, interactions or links)"
       placeholder: https://ps2wiki.github.io/ line
   validations:
@@ -54,7 +54,7 @@ body:
 - type: textarea
   id: additional_context
   attributes:
-      label: Anything else which might be useful to know:
+      label: "Anything else which might be useful to know:"
       description: "Additional context"
       placeholder: Also...
   validations:
