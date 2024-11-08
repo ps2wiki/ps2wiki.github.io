@@ -8,13 +8,13 @@ assignees:
 body:
 - type: checkboxes
   id: checkbox
-    attributes:
+  attributes:
       label: Checks
       description: "Check before posting"
       options:
         - label: I have verified the factual correctness and legitimacy my sources to the best of my abilities
         - label: This issue DOES NOT concern a bug or feature request or new post idea
-    validations:
+  validations:
       required: true
 
  - type: textarea
