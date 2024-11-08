@@ -7,7 +7,7 @@ assignees:
   - koraxial
 body:
 - type: checkboxes
-    id: checkbox
+  id: checkbox
     attributes:
       label: Checks
       description: "Check before posting"
