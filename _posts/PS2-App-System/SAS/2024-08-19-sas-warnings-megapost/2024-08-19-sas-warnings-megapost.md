@@ -130,7 +130,7 @@ The following are indicators present on each SAS compliant application's folder'
 
 <h2>⚠️ Note:</h2>
 ~~~
-We claim NO responsibility for broken installs. 
+We shall NOT be held responsible for broken installs caused due to ignorance or negligence of the material above. 
 Please DO NOT report your issues to us if you proceed.
 You have been warned.
 ~~~
