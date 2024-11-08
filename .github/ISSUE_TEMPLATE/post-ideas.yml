@@ -1,0 +1,35 @@
+name: "Post: Ideas"
+description: "Open this if you have ideas for a new post"
+title: "[Post Idea]: "
+labels: [documentation, post-idea]
+assignees: "koraxial"
+body:
+- type: checkboxes
+  id: checkbox
+  attributes:
+      label: "How do you want to contribute?"
+      description: "Check all which apply"
+      options:
+        - label: I have an idea
+        - label: I have a post somewhere else which I would like to be added to the PS2Wiki.
+        - label: I have an article but it's not uploaded or owned by me. (Permission with proof from Original Author or Owner is required)
+  validations:
+      required: true
+      
+- type: textarea
+  id: description
+  attributes:
+      label: "Describe the idea:"
+      description: "Give a general idea or a detailed account, whatever you wish"
+      placeholder: "A guide comparing different models of PS2 across various use cases and features... "
+  validations:
+      required: true
+
+- type: textarea
+  id: links
+  attributes:
+      label: "Links:"
+      description: "If you want to provide sources to assist in making a guide/article or contribute your own post from somewhere else you can link it here. Anything is appreciated"
+      placeholder: "http://random.site/ps2-buying-guide-for-example"
+  validations:
+      required: true  

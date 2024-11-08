@@ -1,0 +1,14 @@
+name: "Feature Suggestion"
+description: "Open this if you have any suggestion to improve the site"
+title: "[Suggestion]: "
+labels: [enhancement]
+assignees: "koraxial"
+body:
+- type: textarea
+  id: description
+  attributes:
+      label: "Describe your idea/suggestion:"
+      description: "Explain the feature(s)/suggestion(s) you want implemented"
+      placeholder: I would like...
+  validations:
+      required: true
