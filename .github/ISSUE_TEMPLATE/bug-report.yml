@@ -1,0 +1,43 @@
+name: "Report Bugs"
+description: "Open this if you discover any bugs, glitches, dead links, unwanted/unintended actions or security issues"
+title: "[BUG]: "
+labels: [bug]
+assignees: "koraxial"
+body:
+- type: checkboxes
+  id: what
+  validations:
+      required: true
+  attributes:
+      label: "What does the bug/glitch/issue affect?"
+      description: "Select all which apply"
+      options:
+        - label: The PS2Wiki itself (weird formatting outside of ONE article, broken pages, etc.)
+        - label: An Article (dead links, loading issues, improper formatting, etc.)
+        - label: Something else (QR, external links, downloads)
+        
+- type: textarea
+  id: description
+  attributes:
+      label: "Detailed description of the issue(s):"
+      description: "Describe issue you are facing..."
+      placeholder: "Eg: The article has a link to https://random.site which no longer works."
+  validations:
+      required: true
+
+- type: textarea
+  id: line_or_para
+  attributes:
+      label: "Line/paragraph or categories where the issue(s) are:"
+      placeholder: The fifth paragraph, 9th line, link to http://random.site
+  validations:
+      required: true  
+
+- type: textarea
+  id: additional_context
+  attributes:
+      label: "Anything else which might be useful to know:"
+      description: "Additional context"
+      placeholder: Also...
+  validations:
+      required: false
