@@ -1,0 +1,65 @@
+name: 'Post: Factual Error'
+description: Open this when a post has a factual error like missing context or outdated
+  or wrong information.
+title: "[Post Link:]"
+labels: ["documentation", "factual-error"]
+assignees:
+  - koraxial
+body:
+- type: checkboxes
+    id: checks
+    validations:
+      required: true
+    attributes:
+      label: Checks
+      description: "Check before posting"
+      options:
+        - label: I have verified the factual correctness and legitimacy my sources to the best of my abilities
+        - label: This issue DOES NOT concern a bug or feature request or new post idea 
+
+ - type: textarea
+    id: description
+    attributes:
+      label: Detailed description of the issue(s):
+      description: 
+      placeholder: The article states..which as of..is untrue because of an update to...
+    validations:
+      required: true
+
+- type: textarea
+    id: line_or_para
+    attributes:
+      label: Line/paragraph where the issue(s) are:
+      description: 
+      placeholder: The second paragraph, 4th line, 'The following versions are compatible...' to '...SCPH-79000X'
+    validations:
+      required: true
+
+- type: checkboxes
+    id: when
+    validations:
+      required: true
+    attributes:
+      label: Select all which apply:
+      description:
+      options:
+        - label: The factual inaccuracy occurred after an update/change to the article ON PS2WIKI itself
+        - label: An update to the related application or file made the information inaccurate/irrelevant  
+ 
+ - type: textarea
+    id: my_sources
+    attributes:
+      label: My sources are:
+      description: (link any relevant articles, interactions or links)
+      placeholder: https://ps2wiki.github.io/ line
+    validations:
+      required: true
+
+- type: textarea
+    id: additional_context
+    attributes:
+      label: Anything else which might be useful to know:
+      description: Additional context
+      placeholder: Also...
+    validations:
+      required: false
