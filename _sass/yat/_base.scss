@@ -314,3 +314,31 @@ table {
   color: $selection-color;
   background-color: $selection-background-color;
 }
+
+/*ALERTS AND WARNINGS*/
+
+/* alert*/
+.alert {
+  padding: 20px;
+  background-color: #990000; 
+  color: white;
+  margin-bottom: 15px;
+}
+
+/* close button */
+.clbtn {
+  margin-left: 15px;
+  color: white;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+/* hover action on clbtn */
+.clbtn:hover {
+  color: black;
+}
+
