@@ -315,12 +315,28 @@ table {
   background-color: $selection-background-color;
 }
 
-/*ALERTS AND WARNINGS*/
+/*------------------- ALERTS & WARNINGS -------------------*/
 
-/* alert*/
-.alert {
+/* warning */
+.warning {
   padding: 20px;
   background-color: #990000; 
+  color: white;
+  margin-bottom: 15px;
+}
+
+/* alert */
+.alert {
+  padding: 20px;
+  background-color: #f1c232; 
+  color: white;
+  margin-bottom: 15px;
+}
+
+/* note */
+.note {
+  padding: 20px;
+  background-color: #b6d7a8; 
   color: white;
   margin-bottom: 15px;
 }
