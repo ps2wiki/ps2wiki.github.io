@@ -131,7 +131,7 @@ The following are indicators present on each SAS compliant application's folder'
 
 ***
 
-<div class="note">
-  <strong>NOTE:</strong> We shall NOT be held responsible for broken installs caused due to ignorance or negligence of the material above. 
+<div class="alert">
+  <strong>ALERT:</strong> We shall NOT be held responsible for broken installs caused due to ignorance or negligence of the material above. 
 Please DO NOT report your issues to us if you proceed. You have been warned.
 </div>
