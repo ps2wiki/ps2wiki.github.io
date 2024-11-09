@@ -55,7 +55,8 @@ The following are indicators present on each SAS compliant application's folder'
 <ins>**Denotes:**</ins> Standard PS2 ELF format file.    
 <ins>**Variants:**</ins> (Standard, Copy, Delete)    
 * Copy: <i>Appears when copying the icon</i>  `Left/Green`
-* Delete: <i>Appears when deleting the icon</i>  `Right/Red`    
+* Delete: <i>Appears when deleting the icon</i>  `Right/Red`     
+<br>
 
 ***
 
@@ -65,7 +66,8 @@ The following are indicators present on each SAS compliant application's folder'
 </div> <br>
 <ins>**Denotes:**</ins> Crucial system files/folders.   
 <ins>**Variants:**</ins> (Standard, Copy)  
-* Copy: <i>Appears when copying the icon</i>  `Right/Open Lock`  
+* Copy: <i>Appears when copying the icon</i>  `Right/Open Lock`   
+<br>
   
 ***
 
@@ -77,7 +79,7 @@ The following are indicators present on each SAS compliant application's folder'
 <ins>**Variants:**</ins> (Standard, Copy, Delete)  
 * Copy: <i>Appears when copying the icon</i>  `Left/Green`
 * Delete: <i>Appears when deleting the icon</i>  `Right/Red`  
-
+<br>
 ***
 
 ### 4. Mini-Gears:  
