@@ -1,1 +1,30 @@
+name: "Violations"
+description: "Raise this if you find any violation of DMCA or other jailbreaking or hacking laws"
+title: "[VIOLATION]: "
+labels: [documentation]
+assignees: "koraxial"
+body:
+- type: textarea
+  id: which_law
+  attributes:
+      label: "Which law is being violated?"
+      placeholder: "Name or link"
+  validations:
+      required: true
 
+- type: textarea
+  id: what_is_violating
+  attributes:
+      label: "Which content is violating the said law?"
+      placeholder: "https://ps2wiki.github.io/problematic-content-link"
+  validations:
+      required: true
+      
+- type: textarea
+  id: description
+  attributes:
+      label: "Describe the violation:"
+      description: "Provide a detailed summary of the law or act in violation"
+      placeholder: " The point in the article related to...violates..."
+  validations:
+      required: true
