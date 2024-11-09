@@ -80,6 +80,7 @@ The following are indicators present on each SAS compliant application's folder'
 * Copy: <i>Appears when copying the icon</i>  `Left/Green`
 * Delete: <i>Appears when deleting the icon</i>  `Right/Red`  
 <br>
+
 ***
 
 ### 4. Mini-Gears:  
