@@ -10,7 +10,7 @@ banner:
   image: https://cdn3.vectorstock.com/i/1000x1000/27/22/warning-caution-tape-black-and-yellow-line-vector-46252722.jpg
   opacity: 0.5
 image: https://cdn3.vectorstock.com/i/1000x1000/27/22/warning-caution-tape-black-and-yellow-line-vector-46252722.jpg
-tags: SAS
+tags: SAS Beginner FAQ
 ---
 
 ## ⭐ Warnings: 
