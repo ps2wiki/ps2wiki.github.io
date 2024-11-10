@@ -10,7 +10,7 @@ banner:
   image: https://media.istockphoto.com/id/1175294239/photo/acronym-word-from-wooden-blocks-with-letters.webp?s=2048x2048&w=is&k=20&c=5tjM7GGKSvhEDJlMmWInz9q3NmWq1ytegO2X3sjZP5I=
   opacity: 0.5
 image: https://media.istockphoto.com/id/1175294239/photo/acronym-word-from-wooden-blocks-with-letters.webp?s=2048x2048&w=is&k=20&c=5tjM7GGKSvhEDJlMmWInz9q3NmWq1ytegO2X3sjZP5I=
-tags: beginner
+tags: Beginner FAQ 
 top: 1
 sidebar: []
 ---
