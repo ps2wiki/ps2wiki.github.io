@@ -28,7 +28,7 @@ Read these carefully, ignoring these crucial indicators might cause catastrophic
 
 ### 2. Red Mini-MC:  
 <div class="container">
-    <img style="border:2px solid #16537e" width="400" height="300" src="https://raw.githubusercontent.com/ps2wiki/ps2wiki.github.io/refs/heads/main/_posts/PS2-App-System/SAS/2024-08-19-sas-warnings-megapost/assets/Mini-MC_del.png">
+    <img style="border:2px solid #16537e" width="700" height="550" src="https://raw.githubusercontent.com/ps2wiki/ps2wiki.github.io/refs/heads/main/_posts/PS2-App-System/SAS/2024-08-19-sas-warnings-megapost/assets/Mini-MC_del.png">
 </div> <br>
 <ins>**Denotes:**</ins> Deleting this folder will remove the selected software from your PS2 MemoryCard. However, it should not break other SAS applications and/or dependencies.  
 
@@ -42,7 +42,7 @@ The following are indicators present on each SAS compliant application's folder'
 
 ### 0. Icon:
 <div class="container">
-    <img style="border:2px solid #16537e" width="400" height="300" src="https://t4.ftcdn.net/jpg/00/97/62/37/360_F_97623733_LIK9oM8AtlukM5YSJohujC5icsZBgzis.jpg">
+    <img style="border:2px solid #16537e" width="700" height="550" src="https://t4.ftcdn.net/jpg/00/97/62/37/360_F_97623733_LIK9oM8AtlukM5YSJohujC5icsZBgzis.jpg">
 </div>  <br>
 <ins>**Description:**</ins> The heart of SAS, yet to be released. 
 
@@ -50,7 +50,7 @@ The following are indicators present on each SAS compliant application's folder'
 
 ### 1. Mini-MC:
 <div class="container">
-    <img style="border:2px solid #16537e" width="400" height="300" src="https://raw.githubusercontent.com/ps2wiki/ps2wiki.github.io/refs/heads/main/_posts/PS2-App-System/SAS/2024-08-19-sas-warnings-megapost/assets/Mini-MC.png">
+    <img style="border:2px solid #16537e" width="700" height="550" src="https://raw.githubusercontent.com/ps2wiki/ps2wiki.github.io/refs/heads/main/_posts/PS2-App-System/SAS/2024-08-19-sas-warnings-megapost/assets/Mini-MC.png">
 </div> <br>
 <ins>**Denotes:**</ins> Standard PS2 ELF format file.    
 <ins>**Variants:**</ins> (Standard, Copy, Delete)    
@@ -62,7 +62,7 @@ The following are indicators present on each SAS compliant application's folder'
 
 ### 2. Mini-Lock:  
 <div class="container">
-    <img style="border:2px solid #16537e" width="400" height="300" src="https://raw.githubusercontent.com/ps2wiki/ps2wiki.github.io/refs/heads/main/_posts/PS2-App-System/SAS/2024-08-19-sas-warnings-megapost/assets/Mini-Lock.png">
+    <img style="border:2px solid #16537e" width="700" height="550" src="https://raw.githubusercontent.com/ps2wiki/ps2wiki.github.io/refs/heads/main/_posts/PS2-App-System/SAS/2024-08-19-sas-warnings-megapost/assets/Mini-Lock.png">
 </div> <br>
 <ins>**Denotes:**</ins> Crucial system files/folders.   
 <ins>**Variants:**</ins> (Standard, Copy)  
@@ -73,7 +73,7 @@ The following are indicators present on each SAS compliant application's folder'
 
 ### 3. Mini-Wrench:
 <div class="container">
-    <img style="border:2px solid #16537e" width="400" height="300" src="https://raw.githubusercontent.com/ps2wiki/ps2wiki.github.io/refs/heads/main/_posts/PS2-App-System/SAS/2024-08-19-sas-warnings-megapost/assets/Mini-Wrench_all.png">
+    <img style="border:2px solid #16537e" width="700" height="550" src="https://raw.githubusercontent.com/ps2wiki/ps2wiki.github.io/refs/heads/main/_posts/PS2-App-System/SAS/2024-08-19-sas-warnings-megapost/assets/Mini-Wrench_all.png">
 </div> <br>
 <ins>**Denotes:**</ins> System Configurators.   
 <ins>**Variants:**</ins> (Standard, Copy, Delete)  
@@ -85,7 +85,7 @@ The following are indicators present on each SAS compliant application's folder'
 
 ### 4. Mini-Gears:  
 <div class="container">
-    <img style="border:2px solid #16537e" width="400" height="300" src="https://raw.githubusercontent.com/ps2wiki/ps2wiki.github.io/refs/heads/main/_posts/PS2-App-System/SAS/2024-08-19-sas-warnings-megapost/assets/Mini-Gears.png">
+    <img style="border:2px solid #16537e" width="700" height="550" src="https://raw.githubusercontent.com/ps2wiki/ps2wiki.github.io/refs/heads/main/_posts/PS2-App-System/SAS/2024-08-19-sas-warnings-megapost/assets/Mini-Gears.png">
 </div> <br>
 <ins>**Denotes:**</ins> System Configuration files.   
 
@@ -93,7 +93,7 @@ The following are indicators present on each SAS compliant application's folder'
 
 ### 5. Mini-RTE:  
 <div class="container">
-    <img style="border:2px solid #16537e" width="400" height="300" src="https://raw.githubusercontent.com/ps2wiki/ps2wiki.github.io/refs/heads/main/_posts/PS2-App-System/SAS/2024-08-19-sas-warnings-megapost/assets/Mini-RTE.png">
+    <img style="border:2px solid #16537e" width="700" height="550" src="https://raw.githubusercontent.com/ps2wiki/ps2wiki.github.io/refs/heads/main/_posts/PS2-App-System/SAS/2024-08-19-sas-warnings-megapost/assets/Mini-RTE.png">
 </div> <br>
 <ins>**Denotes:**</ins> RunTime Environments. Supported Applications can launch their code through these without bundling their respective RTE with them within the ELF.  
 
@@ -101,7 +101,7 @@ The following are indicators present on each SAS compliant application's folder'
 
 ### 6. Mini-CMDPrompt:  
 <div class="container">
-    <img style="border:2px solid #16537e" width="400" height="300" src="https://raw.githubusercontent.com/ps2wiki/ps2wiki.github.io/refs/heads/main/_posts/PS2-App-System/SAS/2024-08-19-sas-warnings-megapost/assets/Mini-CMDPrompt.png">
+    <img style="border:2px solid #16537e" width="700" height="550" src="https://raw.githubusercontent.com/ps2wiki/ps2wiki.github.io/refs/heads/main/_posts/PS2-App-System/SAS/2024-08-19-sas-warnings-megapost/assets/Mini-CMDPrompt.png">
 </div> <br>
 <ins>**Denotes:**</ins> A Debugger Application.   
 
@@ -109,7 +109,7 @@ The following are indicators present on each SAS compliant application's folder'
 
 ### 7. Mini-BDMA:  
 <div class="container">
-    <img style="border:2px solid #16537e" width="400" height="300" src="https://raw.githubusercontent.com/ps2wiki/ps2wiki.github.io/refs/heads/main/_posts/PS2-App-System/SAS/2024-08-19-sas-warnings-megapost/assets/Mini-BDMA.png">
+    <img style="border:2px solid #16537e" width="700" height="550" src="https://raw.githubusercontent.com/ps2wiki/ps2wiki.github.io/refs/heads/main/_posts/PS2-App-System/SAS/2024-08-19-sas-warnings-megapost/assets/Mini-BDMA.png">
 </div> <br>
 <ins>**Denotes:**</ins> Folder contains [BDM Assault](https://github.com/israpps/BDMAssault) drivers.   
 
@@ -117,7 +117,7 @@ The following are indicators present on each SAS compliant application's folder'
 
 ### 8. Mini-Lua:  
 <div class="container">
-    <img style="border:2px solid #16537e" width="400" height="300" src="https://raw.githubusercontent.com/ps2wiki/ps2wiki.github.io/refs/heads/main/_posts/PS2-App-System/SAS/2024-08-19-sas-warnings-megapost/assets/Mini-Lua.png">
+    <img style="border:2px solid #16537e" width="700" height="550" src="https://raw.githubusercontent.com/ps2wiki/ps2wiki.github.io/refs/heads/main/_posts/PS2-App-System/SAS/2024-08-19-sas-warnings-megapost/assets/Mini-Lua.png">
 </div> <br>
 <ins>**Denotes:**</ins> Lua Application that supports running with the [Enceladus Runtime Environment](https://github.com/DanielSant0s/Enceladus).   
 
@@ -125,7 +125,7 @@ The following are indicators present on each SAS compliant application's folder'
 
 ### 9. Mini-JavaScript:  
 <div class="container">
-    <img style="border:2px solid #16537e" width="400" height="300" src="https://raw.githubusercontent.com/ps2wiki/ps2wiki.github.io/refs/heads/main/_posts/PS2-App-System/SAS/2024-08-19-sas-warnings-megapost/assets/Mini-JS.png">
+    <img style="border:2px solid #16537e" width="700" height="550" src="https://raw.githubusercontent.com/ps2wiki/ps2wiki.github.io/refs/heads/main/_posts/PS2-App-System/SAS/2024-08-19-sas-warnings-megapost/assets/Mini-JS.png">
 </div> <br>
 <ins>**Denotes:**</ins>  JavaScript Application that supports running with the [AthenaEnv Runtime Environment](https://github.com/DanielSant0s/AthenaEnv).   
 
