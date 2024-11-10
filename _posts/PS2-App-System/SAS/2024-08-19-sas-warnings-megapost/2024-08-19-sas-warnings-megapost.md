@@ -20,7 +20,7 @@ Read these carefully, ignoring these crucial indicators might cause catastrophic
 
 ### 1. Deletion of System Vital Apps:
 <div class="container">
-    <img style="border:2px solid #16537e" width="300" height="300" src="https://raw.githubusercontent.com/ps2wiki/ps2wiki.github.io/refs/heads/main/_posts/PS2-App-System/SAS/2024-08-19-sas-warnings-megapost/assets/DELETE.png">
+    <img style="border:2px solid #16537e" width="400" height="300" src="https://raw.githubusercontent.com/ps2wiki/ps2wiki.github.io/refs/heads/main/_posts/PS2-App-System/SAS/2024-08-19-sas-warnings-megapost/assets/DELETE.png">
 </div><br>
 <ins>**Denotes:**</ins> Deleting this folder shall **remove** essential software and/or drivers from your PS2 MemoryCard. Proceeding ahead will **break** and remove application listings of system vital apps and dependencies.
 
