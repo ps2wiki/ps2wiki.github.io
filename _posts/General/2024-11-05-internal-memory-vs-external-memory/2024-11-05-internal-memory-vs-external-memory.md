@@ -39,7 +39,9 @@ All of the above mess of modules ("USBD.IRX"/"USBMASS.IRX"/"ILINK.IRX") has been
 
 A separate world is **INTERNAL MEMORY**, i.e. a **PATA** (Parallel ATA) hard drive, connected to (depending on the console model) a **special external enclosure** via PCMCIA (SCPH-1xxxx) or **Network Adaptor** via a dedicated port (SCPH-3xxxx/5xxxx models), or if you solder well ;) then directly to the motherboard (SCPH-700xx). Even if the Network Adaptor is unlicensed or a counterfeit and/or with a board replacing the old PATA by the newer **SATA** (Serial ATA), such a solution is most often referred to simply as **IDE** (as this is the standard). You may still encounter the term "iHDD" (from "internal HDD"), but it is rarely used.
 
-**NOTE:** Connecting a hard drive via USB or i.Link, does not make it an internal drive!
+<div class="note">
+  <strong>NOTE:</strong> Connecting a hard drive via USB or i.Link, does not make it an internal drive!
+</div>
 
 * **Interface**: PATA (SATA, after board replacement in Network Adaptor)
 * **Partition Tables**: APA (native), GPT or none (the last two exclusively by [OPL GD](https://github.com/grimdoomer/Open-PS2-Loader/releases))
