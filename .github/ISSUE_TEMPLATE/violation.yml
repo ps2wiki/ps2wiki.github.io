@@ -1,5 +1,5 @@
 name: "Violations"
-description: "Raise this if you find any violation of DMCA or other jailbreaking or hacking laws"
+description: "Raise this if you find any violation of any concerned laws or you want to dispute/remove content you own."
 title: "[VIOLATION]: "
 labels: [documentation]
 assignees: "koraxial"
@@ -8,6 +8,7 @@ body:
   id: which_law
   attributes:
       label: "Which law is being violated?"
+      description: "If you want to dispute usage of your content, mention it here"
       placeholder: "Name or link"
   validations:
       required: true
