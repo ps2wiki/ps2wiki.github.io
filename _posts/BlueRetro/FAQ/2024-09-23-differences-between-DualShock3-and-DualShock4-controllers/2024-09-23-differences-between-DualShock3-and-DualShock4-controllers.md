@@ -3,6 +3,8 @@ layout: post
 title: Differences between DualShock 3 and DualShock 4 Controllers
 subtitle: The DualShock 3 (DS3) and DualShock 4 (DS4) controllers, both from Sony, have similarities but differ in button functionality, layout, and sensor technology. This is a breakdown of the buttons and differences between these two controllers.
 author: Ripto
+wiptag: Completed
+factcheck: Verified
 categories: [BlueRetro]
 banner: 
   image: https://www.trustedreviews.com/wp-content/uploads/sites/54/2013/08/Sony-PS4-DualShock4-vs-Dual-1.jpg
@@ -56,14 +58,14 @@ tags: BlueRetro FAQ
    - **DS3**: Uses a **dual motor rumble feature**, providing force feedback for in-game events.
    - **DS4**: Improves on the **rumble feature**, offering a more refined and responsive vibration experience.
 
-### Summary of Major Differences:
+## Summary of Major Differences:
 - **Pressure Sensitivity**: DS3 has pressure-sensitive face buttons and triggers, whereas the DS4 only has pressure-sensitive triggers (L2/R2).
 - **Touchpad & Light Bar**: DS4 adds a touchpad and light bar for enhanced gameplay features.
 - **Ergonomics**: The DS4 controller has a more refined ergonomic design with better-placed triggers and sticks.
 
 When using **BlueRetro** with **DualShock 3 (DS3)** and **DualShock 4 (DS4)** controllers on the PS2, the **L2 and R2 pressure-sensitive functionality** can be a bit different compared to the original PS2 DualShock 2 controller, which supported full analog pressure sensitivity on all buttons.
 
-Here’s how it works:
+## Here’s how it works:
 
 ### 1. **PS2 Pressure-Sensitive Buttons**:
    - The PS2 **DualShock 2** controller has **pressure-sensitive buttons**, including **L1, L2, R1, and R2**. Some PS2 games take advantage of this by allowing variable input based on how hard you press these buttons (e.g., accelerating slowly in racing games).
@@ -83,6 +85,6 @@ Here’s how it works:
 ### 5. **Potential Workaround**:
    - **No true workaround** exists for adding pressure sensitivity to the DS4’s triggers. However, for games where it matters, you can use the **DS3** or **DualShock 2** via BlueRetro to maintain that analog functionality.
 
-In summary:
+## In summary:
 - **DS3**: You’ll get full L2 and R2 pressure sensitivity with BlueRetro on the PS2.
 - **DS4**: You’ll lose that pressure sensitivity, as the DS4 lacks this feature.
