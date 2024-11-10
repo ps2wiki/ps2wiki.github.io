@@ -3,6 +3,8 @@ layout: post
 title: Terms & Acronyms
 subtitle: This list is meant as an introduction to all the acronyms and terms used in the PS2 Homebrew Scene
 author: TnA
+wiptag: Not Completed
+verified: NA
 categories: General
 banner: 
   image: https://media.istockphoto.com/id/1175294239/photo/acronym-word-from-wooden-blocks-with-letters.webp?s=2048x2048&w=is&k=20&c=5tjM7GGKSvhEDJlMmWInz9q3NmWq1ytegO2X3sjZP5I=
@@ -13,25 +15,26 @@ top: 1
 sidebar: []
 ---
 
-### Apps, Exploits, Softmods:
+## Apps, Exploits, Softmods:
 
-**FMCB** = *"Free MemoryCard Boot"* -->
+### **FMCB** = *"Free MemoryCard Boot"* -->
 - This is the most commonly used exploit/Softmod used on a vast variety of models.
 - It is being installed on the MemoryCard.
 - Works on SCPH-10000 to SCPH-90xxx (depending on the program version).
 - Some 90k have BOOT-ROM 2.30 however and won't automatically boot FMCB.
 
-**FHDB** = *"Free HardDrive/HardDisk Boot"* -->
+### **FHDB** = *"Free HardDrive/HardDisk Boot"* -->
 - internal storage/HDD variation of FMCB for FAT PS2s as well as 70k-Slim PS2s!
 - It is installed onto the internal HDD.
 - Works on 10k to 70k! (Note: 10k, 15k and 18k consoles also need a MemoryCard update to boot from HDD)
 -  70k need FMCB to boot FHDB.
 -  it's MBR bootstrap performs quick S.M.A.R.T test, as well as testing sector errors and FileSystem Errors. and kicks the FSCK program to fix errors in case it finds something out of place.
 
-**OpenTuna** --> A MemoryCard Exploit for the newest PS2-Model (SCPH-90k, with a BOOT-ROM version of 2.30) or PS2-models as well as MemoryCards which are not working with MagicGate.
+### **OpenTuna** --> 
+A MemoryCard Exploit for the newest PS2-Model (SCPH-90k, with a BOOT-ROM version of 2.30) or PS2-models as well as MemoryCards which are not working with MagicGate.
 
 
-### Devices:
+## Devices:
 
 - **MC** = *"MemoryCard"*
 - **HDD** = *"Harddisk Drive"* and this ALWAYS means INTERNAL HDD!!!
@@ -41,9 +44,9 @@ sidebar: []
 - **LAN** = SMB, UDPBD, etc., available on EVERY PS2!
 - **XFROM** = Internal Flash memory on the PSX DESRs. it holds the PSX main bootloader
 
-### Other things:
+## Other things:
 
-**BOOT-ROM** = *often falsely referred to as "BIOS"*
+### **BOOT-ROM** = *often falsely referred to as "BIOS"*
 - This is the chip holding the software/firmware the PS2 comes shipped with!
 - It is NOT rewriteable in itself!
 - it is splitted/partitioned into several parts:
