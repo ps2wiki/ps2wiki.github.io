@@ -32,12 +32,14 @@ sidebar: []
 
 
 <h4>If you intend to use OPL, please stay in the HDDManager and create an appropriately sized +OPL-Partition!</h4>
+
 1. Tap `R1`
 2. Select **"create"**
 3. Name it **"+OPL"**
 4. Choose a size! This depends on the size of the HDD as well on what you want to use (i.e. 768MB for a 500GB storage, 1.2GB for a 1TB storage, 1.5GB for a 2TB storage.). VMCs require a bit more space, so keep that in mind!
 
 <h4>If you intend to use POPStarter, POPSLoader, or wLaunchELF_kHn, please stay in the HDDManager and create one or more of the following partitions at up to 128GB each to meet your .VCD storage needs the same way you created the +OPL partition above.</h4>
+
 - __.POPS
 - __.POPS0
 - __.POPS1
