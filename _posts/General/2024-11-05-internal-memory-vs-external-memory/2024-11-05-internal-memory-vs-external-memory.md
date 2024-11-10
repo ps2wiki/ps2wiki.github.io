@@ -10,7 +10,7 @@ banner:
   image: https://img4.dhresource.com/webp/m/0x0/f3/albu/jc/s/09/b6343f23-fd05-4413-aafb-1ba7b38dc6cc.jpg
   opacity: 0.5
 image: https://img4.dhresource.com/webp/m/0x0/f3/albu/jc/s/09/b6343f23-fd05-4413-aafb-1ba7b38dc6cc.jpg
-tags: beginner
+tags: Beginner FAQ
 top: 1
 sidebar: []
 ---
