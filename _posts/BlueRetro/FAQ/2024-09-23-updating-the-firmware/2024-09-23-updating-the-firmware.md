@@ -3,6 +3,8 @@ layout: post
 title: Updating the Firmware on the BlueRetro
 subtitle: The firmware for on BlueRetro is upgradable, with newer versions sometimes offering additional features like game-specific profiles. Here's how you can approach upgrading the firmware and what to expect from the update.
 author: Ripto
+wiptag: Completed
+factcheck: Verified
 categories: [BlueRetro]
 banner: 
   image: https://repository-images.githubusercontent.com/198868981/98d05272-da79-4387-97af-7aaa665b2ff9
@@ -11,7 +13,7 @@ image: https://repository-images.githubusercontent.com/198868981/98d05272-da79-4
 tags: BlueRetro FAQ Tutorial
 ---
 
-### Upgrading BlueRetro Firmware
+## Upgrading BlueRetro Firmware
 
 1. **Check Current Firmware Version**:
    - Access the BlueRetro web interface by connecting via Bluetooth and visiting:  
@@ -34,13 +36,13 @@ tags: BlueRetro FAQ Tutorial
    - After updating, recheck the BlueRetro web interface to confirm if **game-specific profiles** or advanced remapping features are available.
    - The latest firmware versions should include the ability to create and manage multiple profiles, allowing you to configure specific button mappings for different games.
 
-### What to Expect with Upgraded Firmware
+## What to Expect with Upgraded Firmware
 
 - **Game-Specific Profiles**: With newer firmware, you should be able to save and switch between different button remapping profiles. This means you can have specific configurations for different games.
 - **Profile Management**: Look for options in the web interface that allow you to create, save, and switch profiles. This feature enables you to customize your setup based on the needs of each game.
 - **Improved Functionality**: Upgrades often come with bug fixes and new features, improving overall performance and usability.
 
-### Resources
+## Resources
 
 - **BlueRetro GitHub Releases**:  
   **https://github.com/darthcloud/BlueRetro/releases**
