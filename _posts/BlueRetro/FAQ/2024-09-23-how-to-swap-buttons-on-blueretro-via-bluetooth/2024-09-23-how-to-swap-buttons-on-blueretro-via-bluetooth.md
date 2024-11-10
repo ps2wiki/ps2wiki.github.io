@@ -3,6 +3,8 @@ layout: post
 title: How to Swap Buttons on BlueRetro via Bluetooth
 subtitle: Swap R2 and X for Pressure Sensitivity
 author: Ripto
+wiptag: Completed
+factcheck: Verified
 categories: [BlueRetro]
 banner: 
   image: https://i.pinimg.com/originals/03/f8/7e/03f87ede1cd889c05b1747d6c7644612.png
@@ -10,6 +12,7 @@ banner:
 image: https://i.pinimg.com/originals/03/f8/7e/03f87ede1cd889c05b1747d6c7644612.png
 tags: BlueRetro FAQ Tutorial
 ---
+## How to Swap Buttons on BlueRetro via Bluetooth
 
 #### 1. **Understanding BlueRetro and Button Remapping**
    - **BlueRetro** allows you to connect modern Bluetooth controllers (e.g., DualShock 3/4) to your PS2 and offers customizable button mappings, which is perfect if you want to swap the **R2 and X** buttons to take advantage of **R2's pressure sensitivity**.
@@ -44,7 +47,7 @@ tags: BlueRetro FAQ Tutorial
 #### 7. **Further Button Remapping or Adjustments**:
    - If you want to remap more buttons or fine-tune your setup, you can do so easily through the same **web interface**. BlueRetro supports remapping most buttons on modern controllers to match the PS2’s layout.
 
-### Resources for BlueRetro and Button Remapping:
+## Resources for BlueRetro and Button Remapping:
 - **BlueRetro GitHub** (Project repository and latest firmware updates):  
   **https://github.com/darthcloud/BlueRetro**
   
@@ -58,7 +61,7 @@ By following these steps, you'll have successfully swapped **R2 and X** to ensur
 
 To clarify, when I mentioned **"if compatible"** regarding multiple profiles and game-specific remapping, I was referring to features that might depend on the version of the **BlueRetro firmware** you're using. Let's break down what is compatible and what isn’t based on the current state of **BlueRetro** functionality:
 
-### BlueRetro Compatibility for Button Remapping and Profiles:
+## BlueRetro Compatibility for Button Remapping and Profiles:
 
 1. **Global Button Remapping (Always Compatible)**:
    - **Every version of BlueRetro** supports **global button remapping**. Once you remap buttons like **R2 and X**, this remap will apply to **all connected controllers** and **all games** by default.
@@ -68,12 +71,12 @@ To clarify, when I mentioned **"if compatible"** regarding multiple profiles and
    - **Profile-based remapping**—where you can save different button layouts for different games or situations—depends on the **firmware version** you are using.
    - As of the latest updates (September 2023), BlueRetro supports **multiple profiles**, but not all configurations may allow this feature in full detail yet.
 
-   ### Current BlueRetro Firmware Features:
+## Current BlueRetro Firmware Features:
    - **Global Remap**: Always supported.
    - **Multiple Profiles**: Supported in newer firmware, but still evolving. You can save and switch profiles for different controller setups or specific games. However, profile management may be limited depending on the setup of your **ESP32** and the specific build you're using.
    - **Controller-Specific Remapping**: BlueRetro does not yet offer a fully automated system for switching remaps based on individual games, but you can manually change profiles through the web interface.
 
-### Compatibility Check:
+## Compatibility Check:
 - If you're using an **updated firmware** version (recent 2023 builds), you likely have access to **multiple profiles** and can configure button mappings for different setups manually.
 - Older or custom builds of BlueRetro may not yet support **profile management**, and in these cases, only **global remapping** is available.
   
@@ -85,6 +88,6 @@ You can also refer to the detailed **Wiki** for updated profile-related features
 
 ---
 
-### What Is Compatible:
+## What Is Compatible:
 - **Global button remapping** works on **all versions**.
 - **Multiple profiles** or game-specific remapping may be available in recent versions, but it is not an automatic feature based on the game you're playing.
