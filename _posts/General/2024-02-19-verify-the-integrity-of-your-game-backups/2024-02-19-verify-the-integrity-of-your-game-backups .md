@@ -47,10 +47,8 @@ To verify the MD5 hash of your PS2 ISOs against the Redump database, you'll want
 <h4>How to Compare:</h4>
 - The MD5 hash is a long string of numbers and letters. You need to ensure every character matches perfectly with the one provided by Redump for your specific game.
 
-<h4>If They Match:</h4>
-- If every character in your MD5 hash matches the one on Redump, your ISO is a perfect copy of the original disc.
+**If They Match:** If every character in your MD5 hash matches the one on Redump, your ISO is a perfect copy of the original disc.
 
-**If They Do Not Match:**
-- If there's any discrepancy, the ISO may not be an accurate copy. This could be due to data corruption, differences in the disc version, or modifications.
+**If They Do Not Match:** If there's any discrepancy, the ISO may not be an accurate copy. This could be due to data corruption, differences in the disc version, or modifications.
 
 By following these steps, you'll be able to verify the integrity of your PS2 ISOs against the Redump database, ensuring they're accurate backups of the original media. This process is crucial for preservation purposes and for ensuring compatibility with emulators and homebrew software.
