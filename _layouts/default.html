@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
-
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/10.6.1/mermaid.min.js"></script>
+  
   {%- include head.html -%}
 
   <body>
@@ -22,6 +23,6 @@
     </main>
 
     {%- include views/footer.html -%}
-
-  </body>
+    </body>
+  {%- include extensions/mermaid.html -%}
 </html>
