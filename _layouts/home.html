@@ -15,7 +15,20 @@ body {
 </style>
 
 <div style="display: flex">
-<div style="left: 1250px; right: 25px; padding-top: 50px">
+
+<div style="left: 25px; right: 500px; border-radius: 10px; padding: 30px; border: 3px outset #ffffff; background-color: #0c1516; align: left" class="home_latest_posts">
+ <div class="articles">
+  {% if page.banner == nil %}
+    {% assign banner = page.title %}
+  {% endif %}
+
+  {{ content }}
+  {% include views/pagination.html %}
+</div></div>
+
+</br></br>
+
+<div style="left: 1250px; right: 25px">
 <div style="border-radius: 10px; padding: 30px; border: 3px outset #ffffff; background-color: #0c1516; align: right" class="home_site_guide">
   <h1 style="font-size: 27.5px; color: #ffffff">➤ Site Guide</h1>
   <hr></br>
@@ -37,18 +50,6 @@ body {
   <h3><a href="https://ps2wiki.github.io/archives.html">➽ Archives</a></h3>
   Yearly site-wide Archive
   </br></br><hr></br>
-</div></div>
-
-</br></br>
-
-<div style="left: 25px; right: 500px; border-radius: 10px; padding: 30px; border: 3px outset #ffffff; background-color: #0c1516; align: left" class="home_latest_posts">
- <div class="articles">
-  {% if page.banner == nil %}
-    {% assign banner = page.title %}
-  {% endif %}
-
-  {{ content }}
-  {% include views/pagination.html %}
 </div></div>
 </div>
 
