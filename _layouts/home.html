@@ -1,71 +1,21 @@
+
 ---
+layout: framework
+sidebar: category-list
 heading: 'Your awesome heading'
 subheading: 'Your awesome subheading'
 banner: 'default'
 ---
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/10.6.1/mermaid.min.js"></script>
-  {%- include head.html -%}
-  <body>
-    {%- include views/header.html -%}
-    {%- include views/banner.html -%}
-    {%- include extensions/hashlocate.html -%}
-    {%- include extensions/theme-toggle.html -%}
-    {%- include extensions/click-to-top.html -%}
 
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </main>
-    </body>
-  {%- include extensions/mermaid.html -%}
-</html>
-
-<div class="framework">
-  <section class="main">
-
-     {{ content }}
-
-  </section>
-  <section class="sidebar" style="margin-left: 15px;">
-    <!-- Get sidebar items -->
-    {%- if page.sidebar -%}
-      {%- assign sidebar = page.sidebar -%}
-    {%- elsif site.defaults[page.layout].sidebar -%}
-      {%- assign sidebar = site.defaults[page.layout].sidebar -%}
-    {%- elsif layout.sidebar -%}
-      {%- assign sidebar = layout.sidebar -%}
-    {%- endif -%}
-
-    {%- for item in sidebar -%}
-
-      {%- assign file = item -%}
-      {%- assign array = file | split: '.' -%}
-      {%- if array.size == 1 -%}
-        {%- assign file = file | append: '.html' -%}
-      {%- endif -%}
-
-      {%- assign file = 'sidebar/' | append: file -%}
-
-      {%- include {{ file }} %}
-
-    {%- endfor -%}
-  </section>
-</div>
-
-<!-- Home Page Code -->
+<h1 style="font-family: Faculty Glyphic; text-align: center; font-size: 3.5em; font-weight: bold; text-decoration: underline; color: #ffffff">The PS2 Homebrew Wiki</h1>
+<h1 style="font-size: 1.35em; text-align: center; font-weight: bold; color: #99b6b9">From Apps to Exploits, Games to Mods, the one website for all things PS2 Homebrew</h1>
+</br></br></br>
 
 <style>
 body {
   background-image: url('/assets/images/ps2wiki_bg.jpg');
 }
 </style>
-
-<h1 style="font-family: Faculty Glyphic; text-align: center; font-size: 3.5em; font-weight: bold; text-decoration: underline; color: #ffffff">The PS2 Homebrew Wiki</h1>
-<h1 style="font-size: 1.35em; text-align: center; font-weight: bold; color: #99b6b9">From Apps to Exploits, Games to Mods, the one website for all things PS2 Homebrew</h1>
-</br></br></br>
 
 <div style="left: 0px; position: absolute; padding: 25px; padding-bottom: 100px; display: flex">
 
@@ -94,7 +44,7 @@ body {
 </div></div>
 
 <div style="padding: 6.25px"></div>
- 
+
 <div style="width: 70%; left: 12.5px; right: 0px; border-radius: 10px; padding: 30px; border: 3px outset #ffffff; background-color: #0c1516; align: left" class="home_latest_posts">
    <h1 style="font-size: 27.5px; color: #ffffff">➤ Latest Posts</h1>
   <hr></br>
@@ -104,7 +54,8 @@ body {
   {% endif %}
     {{ content }}
   {% include views/pagination.html %}
-  
-</div></div></div>
 
+</div></div></div>
+<div style="left:0; position: absolute; bottom: 0; width: 100%">
   {%- include views/footer.html -%}
+</div>
