@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
-
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/10.6.1/mermaid.min.js"></script>
+  
   {%- include head.html -%}
 
   <body>
@@ -24,4 +25,21 @@
     {%- include views/footer.html -%}
 
   </body>
+  
+<!------------- Add Mermaid Support -------------------->
+window.addEventListener('DOMContentLoaded', function(){
+           var config = {
+                startOnLoad:true,
+                htmlLabels:true,
+                callback:function(id){
+                    console.log(id,' rendered');
+                },
+                flowchart:{
+                        useMaxWidth:false,
+                    }
+            };
+            
+            mermaid.initialize(config);
+        },false);
+<!------------------------------------------------------>
 </html>
