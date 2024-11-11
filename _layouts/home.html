@@ -16,7 +16,7 @@ body {
 
 <div style="left: 0px; position: absolute; padding: 25px; display: flex">
 
-<div style="left: 25px; right: 500px; border-radius: 10px; padding: 30px; border: 3px outset #ffffff; background-color: #0c1516; align: left" class="home_latest_posts">
+<div style="left: 25px; right: 300px; border-radius: 10px; padding: 30px; border: 3px outset #ffffff; background-color: #0c1516; align: left" class="home_latest_posts">
  <div class="articles">
   {% if page.banner == nil %}
     {% assign banner = page.title %}
@@ -26,7 +26,9 @@ body {
   {% include views/pagination.html %}
 </div></div>
 
-</br></br>
+<div style="padding: 50px">
+  
+</div>
 
 <div style="left: 1250px; right: 25px">
 <div style="border-radius: 10px; padding: 30px; border: 3px outset #ffffff; background-color: #0c1516; align: right" class="home_site_guide">
