@@ -5,6 +5,7 @@ heading: 'Your awesome heading'
 subheading: 'Your awesome subheading'
 banner: 'default'
 ---
+{%- exclude views/footer.html -%}
 
 <h1 style="font-family: Faculty Glyphic; text-align: center; font-size: 3.5em; font-weight: bold; text-decoration: underline; color: #ffffff">The PS2 Homebrew Wiki</h1>
 <h1 style="font-size: 1.35em; text-align: center; font-weight: bold; color: #99b6b9">From Apps to Exploits, Games to Mods, the one website for all things PS2 Homebrew</h1>
@@ -56,26 +57,5 @@ body {
 
 </div></div></div>
 
-<footer class="site-footer h-card">
-  <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
-  <div class="wrapper">
-    <div class="site-footer-inner">
-        {%- assign currentYear = 'now' | date: "%Y" -%}
-        {%- assign copyright = site.copyright
-            | replace: '{currentYear}', currentYear
-            | replace: '{author}', site.author
-            | replace: '(c)', '&copy;'
-            | replace: '(p)', '℗'
-            | replace: '(cleft)', '<span class="copyleft">&copy;</span>'
-        -%}
-      <div>{{ copyright }}</div>
-      <div>Powered by <a title="Jekyll is a simple, blog-aware, static site
-      generator." href="https://jekyllrb.com/">Jekyll</a> &amp; <a title="Yat, yet
-      another theme." href="https://github.com/jeffreytse/jekyll-theme-yat">Yat Theme</a>.</div>
-      <div><a title="Link to PS2 Space Discord Server" href="https://discord.gg/kCYbSF6tbx">Join the PS2 Space Discord Server!</a></div>
-      <!-- <div class="footer-col rss-subscribe">Subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></div> -->
-    </div>
-  </div>
-</footer>
 
