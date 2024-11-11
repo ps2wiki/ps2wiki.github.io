@@ -135,3 +135,15 @@ The following are indicators present on each SAS compliant application's folder'
   <strong>ALERT:</strong> We shall NOT be held responsible for broken installs caused due to ignorance or negligence of the material above. 
 Please DO NOT report your issues to us if you proceed. You have been warned.
 </div>
+
+<div class="mermaid">
+      sequenceDiagram
+      Alice ->> Bob: Hello Bob, how are you?
+      Bob-->>John: How about you John?
+      Bob--x Alice: I am good thanks!
+      Bob-x John: I am good thanks!
+      Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
+  
+      Bob-->Alice: Checking with John...
+      Alice->John: Yes... John, how are you?
+</div>
