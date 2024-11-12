@@ -326,14 +326,16 @@ table {
 
 @media (max-width: 400px) {
   .home_multi_post_block {
+  left: 0px;
   width: 90%;
   display: block; 
   margin: auto; 
   }
-  .home_siteguide_and_misc_parent {
+  .home_latest_posts {
+  left: 0px;
   width: 90%;
   display: block; 
-  margin: auto; 
+  margin: auto;
   }
 }
   
