@@ -323,8 +323,14 @@ table {
   padding-bottom: 100px; 
   display: flex
 }
+
 @media (max-width: 400px) {
   .home_multi_post_block {
+  width: 90%;
+  display: block; 
+  margin: auto; 
+  }
+  .home_siteguide_and_misc_parent {
   width: 90%;
   display: block; 
   margin: auto; 
