@@ -323,12 +323,11 @@ table {
   padding-bottom: 100px; 
   display: flex
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 500px) {
   .home_multi_post_block {
-  left: 0px; 
-  padding: 25px; 
-  padding-bottom: 100px; 
-  display: block
+  width: 90%;
+  display: block; 
+  margin: auto; 
   }
 }
   
