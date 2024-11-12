@@ -1,8 +1,78 @@
 ---
-layout: articles
+layout: framework-home
+sidebar: category-list
 heading: 'Your awesome heading'
 subheading: 'Your awesome subheading'
 banner: 'default'
 ---
 
-{{ content }}
+<h1 style="font-family: Faculty Glyphic; text-align: center; font-size: 3.5em; font-weight: bold; text-decoration: underline; color: #ffffff">The PS2 Homebrew Wiki</h1>
+<h1 style="font-size: 1.35em; text-align: center; font-weight: bold; color: #99b6b9">From Apps to Exploits, Games to Mods, the one website for all things PS2 Homebrew</h1>
+</br></br></br></br></br>
+
+<style>
+body {
+  background-image: url('/assets/images/ps2wiki_bg.jpg');
+}
+</style>
+
+
+<!-- Position --> <div style="left: 0px; position: absolute">
+  
+<!-- News --> <div style="padding-left: 25px; padding-right: 25px"><div class="home_news_block">
+<img src="https://i.imgur.com/1UZvuCz.gif"/> <strong style="font-size: 1.10em">Open PS2 Loader v1.2.0-Beta-2172 has been released on <a href="https://github.com/ps2homebrew/Open-PS2-Loader/releases/tag/latest">GitHub<sup><i class="fa fa-paperclip"></i></sup></a> !</strong></div></div>
+
+<!-- Site Guide & Latest Posts --> <div class="home_multi_post_block">
+
+<div style="left: 10px; right: 12.5px">
+<div class="home_siteguide_and_misc_parent">
+<div style="right: 12.5px; border-radius: 10px; padding: 30px; border: 3px outset #ffffff; background-color: #122021; color: #eeeeee" class="home_site_guide">
+  <h1 style="font-size: 27.5px; color: #ffffff">➤ Site Guide</h1>
+  <hr></br>
+  <h3><a href="https://ps2wiki.github.io/about.html">➽ About</a></h3>
+  Introduction to the site
+  </br></br><hr></br>
+  <h3><a href="https://ps2wiki.github.io/get_started.html">➽ Get Started</a></h3>
+  Everything you need to 'Get Started' with PS2 Modding! (>ᴗ•)
+  </br></br><hr></br>
+  <h3><a href="https://ps2wiki.github.io/links_and_sources.html">➽ Links & Sources</a></h3>
+  Useful links to downloads and other resources
+  </br></br><hr></br>
+  <h3><a href="https://ps2wiki.github.io/categories.html">➽ Topics</a></h3>
+  All post content on the site, sorted by topics
+  </br></br><hr></br>
+  <h3><a href="https://ps2wiki.github.io/tags.html">➽ Tags</a></h3>
+  Filter content based on #tags
+  </br></br><hr></br>
+  <h3><a href="https://ps2wiki.github.io/archives.html">➽ Archives</a></h3>
+  Yearly site-wide Archive
+  </br></br><hr></br>
+</div></br>
+<!-- Miscellaneous --> <div style="right: 12.5px; border-radius: 10px; padding: 30px; border: 3px outset #ffffff; background-color: #21292f; color: #eeeeee" class="home_miscellaneous">
+  <h1 style="font-size: 27.5px; color: #ffffff">➤ Miscellaneous</h1>
+  <hr></br>
+  <h3><a href="https://github.com/ps2wiki/ps2wiki.github.io/issues/new?assignees=koraxial&labels=documentation%2Cpost-idea&projects=&template=post-ideas.yml&title=%5BPost+Idea%5D%3A+">➽ Contributing</a></h3>
+  Have new ideas or want to help improve existing stuff? Learn about how you can contribute!
+  </br></br><hr></br>
+  
+
+</div></div></div></br>
+  
+<div style="padding: 6.25px"></div>
+  
+<div style="width: 80%; left: 12.5px; right: 12.5px; border-radius: 10px; padding: 30px; border: 3px outset #ffffff; background-color: #0c1516; color: #eeeeee" class="home_latest_posts">
+   <h1 style="font-size: 27.5px; color: #ffffff">➤ Latest Posts</h1>
+  <hr></br>
+  <div class="articles">
+  {% if page.banner == nil %}
+    {% assign banner = page.title %}
+  {% endif %}
+    {{ content }}
+  {% include views/pagination.html %}
+</div></div>
+
+</div>
+
+<div style="left:0px; width: 100%; border-top: 3px outset #ffffff; color: #eeeeee">
+  {%- include views/footer.html -%}
+</div></div>
