@@ -2,7 +2,7 @@
   position: relative;
   width: $base-font-size * 7.65;
   margin-top: 10px;
-  margin-right: 20px;
+  margin-right: 18px;
   margin-left: auto;
   transition: .3s cubic-bezier(.4,.03,0,1);
 
@@ -20,7 +20,7 @@
     position: absolute;
     width: 30%;
     height: 100%;
-    background-color: #fff;
+    background-color: #fff2cc;
     box-shadow: 0 2px 5px rgba(0,0,0,.15);
     transition: transform .2s cubic-bezier(0.25, 0.46, 0.45, 0.94);
   }
@@ -29,7 +29,7 @@
     font-size: 1em;
     font-weight: bolder;
     width: 25%;
-    margin-left: 15%;
+    margin-left: 18%;
     position: relative;
     display: flex;
     justify-content: space-between;
@@ -39,7 +39,7 @@
   .names p {
     margin-bottom: 0;
     line-height: 24px;
-    opacity: .5;
+    opacity: .8;
   }
 
   label .light {
