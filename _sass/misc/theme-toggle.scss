@@ -2,12 +2,12 @@
   position: relative;
   width: $base-font-size * 4.5;
   margin-top: 10px;
-  margin-right: 18px;
+  margin-right: 36px;
   margin-left: auto;
   transition: .3s cubic-bezier(.4,.03,0,1);
 
   label, .toggle {
-    border-radius: 50px;
+    border-radius: 100px;
   }
 
   label {
@@ -18,7 +18,7 @@
 
   .toggle {
     position: absolute;
-    width: 30%;
+    width: 50%;
     height: 100%;
     background-color: #fff2cc;
     box-shadow: 0 2px 5px rgba(0,0,0,.15);
@@ -28,7 +28,7 @@
   .names {
     font-size: 1em;
     font-weight: bolder;
-    width: 25%;
+    width: 35%;
     margin-left: 18%;
     position: relative;
     display: flex;
