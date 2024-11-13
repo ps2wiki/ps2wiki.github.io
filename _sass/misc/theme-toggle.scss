@@ -18,7 +18,7 @@
 
   .toggle {
     position: absolute;
-    width: 50%;
+    width: 20%;
     height: 100%;
     background-color: #fff;
     box-shadow: 0 2px 15px rgba(0,0,0,.15);
@@ -28,7 +28,7 @@
   .names {
     font-size: 1em;
     font-weight: bolder;
-    width: 20px;
+    width: 20%;
     margin-left: 12%;
     position: relative;
     display: flex;
@@ -43,12 +43,12 @@
   }
 
   label .light {
-    color: #868686;
+    color: #ffe599;
     margin-left: -0.2em;
   }
 
   label .dark {
-    color: #b9b9b9;
+    color: #b4a7d6;
   }
 
   [type="checkbox"] {
