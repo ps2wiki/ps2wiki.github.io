@@ -24,29 +24,15 @@ body {
   
 <!-- Terms of Service Notice -->
 <div id="termsofservice" class="tos">
-  <span class="clbtn"></span>
+ <span class="closebtn" onclick="this.parentElement.style.display='none';">X</span>
   <strong>Important:</strong> Please read the <a href="https://ps2wiki.github.io/about.html#Terms-of-Service">Terms of Service</a> in <a href="https://ps2wiki.github.io/about.html">About</a> before using the site. Thankyou.
 </div>
 
-<style>
-.tos {
-  opacity: 1;
-  transition: opacity 0.6s; 
-}
-</style>
 <script>
 setTimeout(()=>{
     const tos=document.getElementById('termsofservice');
     tos.style.display='none' ;
   },10000);
-
-var close = document.getElementsByClassName("clbtn");
-var i;
-for (i = 0; i < close.length; i++) {
-  close[i].onclick = function(){
-    var div = this.parentElement;
-    div.style.opacity = "0";
-    setTimeout(function(){ div.style.display = "none"; }, 500);
 </script></br>
   
 <!-- News --> <div class="home_news_block">
