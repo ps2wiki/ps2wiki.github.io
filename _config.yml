@@ -23,8 +23,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
+#
 title: PS2Wiki
+email: --
 author: The PS2Wiki Team
 
 # Copyright setting
@@ -63,8 +64,8 @@ header_transparent: true
 # content_width: "920px"
 
 # Google analytics - GA4
-# google_analytics: G-NW7W22XNC2
- enableDNT: "false"
+google_analytics: "G-NW7W22XNC2"
+enableDNT: "false"
 
 # If you want to generate website sitemap, you can set true
  sitemap: false
