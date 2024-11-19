@@ -398,9 +398,11 @@ table {
   margin-left: 15px;
   color: white;
   font-weight: bold;
-  float: left;
+  float: right;
   font-size: 22px;
+  line-height: 20px;
   cursor: pointer;
+  transition: 0.3s;
 }
 
 /* hover action on clbtn */
