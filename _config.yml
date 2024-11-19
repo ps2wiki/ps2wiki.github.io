@@ -249,3 +249,5 @@ plugins:
   - jekyll-paginate
   - jekyll-spaceship
 
+# Exclusions
+exclude: [ 'README.md', 'LICENSE', 'Yat_Theme_MITLicense.txt' ]
