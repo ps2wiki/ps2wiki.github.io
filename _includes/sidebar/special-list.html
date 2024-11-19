@@ -27,8 +27,8 @@
     for (var i = 0; i < headings.length; i++) {
       var h = headings[i];
       menuHTML += (
-        '<li class="h-' + h.tagName.toLowerCase() + '">'
-        + '<a href="#h-' + h.getAttribute('id') + '">' + h.textContent + '</a></li>');
+        '<li class="toc_nav-' + h.tagName.toLowerCase() + '">'
+        + '<a href="#toc_nav-' + h.getAttribute('id') + '">' + h.textContent + '</a></li>');
     }
 
     menuContent.innerHTML = '<ul>' + menuHTML + '</ul>';
