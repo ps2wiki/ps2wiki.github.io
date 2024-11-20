@@ -40,7 +40,7 @@ author: The PS2Wiki Team
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "(cleft) {currentYear} {author}"
+copyright: "(c) {currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to The PS2 Homebrew Wiki! Whether you're a beginner or a seasoned modder, our tutorials have you covered with easy-to-follow guides on everything PS2! 
