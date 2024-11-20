@@ -34,7 +34,7 @@
   </ul>
 
   <!-- Pagination links -->
-  {%- if paginator.posts.size < site.posts.size -%}
+  {%- if paginator.posts.size < 6 -%}
     {%- include views/paginator.html -%}
   {%- endif -%}
 </div>
