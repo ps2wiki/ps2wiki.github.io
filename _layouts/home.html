@@ -84,9 +84,7 @@ setTimeout(()=>{
     {% assign banner = page.title %}
   {% endif %}
     {{ content }}
-  {%- if paginator.posts.size < 6 -%}
-    {% include views/pagination.html %}
-  {% endif %}
+  {% include views/pagination-home.html %}
 </div></div>
 
 </div>
