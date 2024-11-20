@@ -83,8 +83,10 @@ setTimeout(()=>{
   {% if page.banner == nil %}
     {% assign banner = page.title %}
   {% endif %}
-    {{ top-post }}
-  {% include views/pagination.html %}
+    {{ content }}
+  {%- if paginator.posts.size < 6 -%}
+    {% include views/pagination.html %}
+  {% endif %}
 </div></div>
 
 </div>
