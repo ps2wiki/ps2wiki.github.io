@@ -83,7 +83,7 @@ setTimeout(()=>{
   {% if page.banner == nil %}
     {% assign banner = page.title %}
   {% endif %}
-    {{ content }}
+    {{ post.top }}
   {% include views/pagination.html %}
 </div></div>
 
