@@ -360,15 +360,17 @@ table {
 /*------------------- Homebrew Section -------------------*/
 
 .homebrew_div {
-  overflow: hidden; 
-  height: 172.22px; 
+  display: flex;
+  flex-direction: row;
+  
   }
 
 @media (max-width: 400px) {
   
   .homebrew_div {
-    overflow: scroll; 
-    height: 500px; 
+  display: flex;
+  flex-direction: column;
+    
     }
   
 }
