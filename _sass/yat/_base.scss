@@ -354,8 +354,24 @@ table {
   display: block; 
   margin-right: 12.5px;
   }
+
 }
+
+/*------------------- HOMEBREW DIVS -------------------*/
+.homebrew_div {
+  overflow: hidden; 
+  height: 172.22px; 
+  }
+
+@media (max-width: 400px) {
   
+  .homebrew_div {
+    overflow: visible; 
+    height: auto; 
+    }
+  
+}
+
 /*------------------- ALERTS & WARNINGS -------------------*/
 
 /* warning */
