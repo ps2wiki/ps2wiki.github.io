@@ -12,15 +12,30 @@ hidden:
 comments: false
 ---
 <div style="border-radius: 10px; padding: 30px; border: 3px outset wheat; background-color: #215864" class="homebrew_div">
-    <div style="height: 0; width: 30%; padding-bottom: 15%"><div style="float: left; margin-right: 25px; border-radius: 5px; padding: 10px; border: 2px outset white"><img src="https://media.discordapp.net/attachments/1255864751444070422/1309522025781526570/Untitled-3.png?ex=6741e2ec&is=6740916c&hm=e16be9d0fc6b4c021d12106007554c86af9f5e28e4d9cff8ea58eed4b9ef23b4&=&format=webp&quality=lossless"></div></div></br>
-    <div style="float: right; display: flex; flex-direction: column"><div style="float: right"><h1 style="font-family: Montserrat; text-align: left; font-size: 2.5em; font-weight: bold; color: #ffe599">{{ page.title }}</h1></div></br>
-    <div style="float: right"><p style="font-size: 1.0em; text-align: left; font-weight: bold; color: #99b6b9">{{ page.subtitle }}</p></div></div>
+    <div style="height: 0; width: 30%; padding-bottom: 15%">
+      <div style="float: left; margin-right: 25px; border-radius: 5px; padding: 10px; border: 2px outset white">
+        <img src="https://media.discordapp.net/attachments/1255864751444070422/1309522025781526570/Untitled-3.png?ex=6741e2ec&is=6740916c&hm=e16be9d0fc6b4c021d12106007554c86af9f5e28e4d9cff8ea58eed4b9ef23b4&=&format=webp&quality=lossless">
+      </div>
+    </div></br>
+    <div style="float: right; display: flex; flex-direction: column">
+        <div style="float: right">
+          <h1 style="font-family: Montserrat; text-align: left; font-size: 2.5em; font-weight: bold; color: #ffe599">{{ page.title }}</h1>
+        </div></br>
+        <div style="float: right">
+        <p style="font-size: 1.0em; text-align: left; font-weight: bold; color: #99b6b9">{{ page.subtitle }}</p>
+        </div>
+    </div>
 </div>  
 
 </br><hr>
-<div style="">
-<div class="homebrew_tag_l"><div><strong><i class="fa fa-history"></i> Last Updated:</strong> {{ page.last_updated }}</div></div>
-<div class="homebrew_tag_r"><div><strong><i class="fa fa-code"></i> Project Status:</strong> {{ page.project_status }}</div></div></div>
-</br></br><hr></br>
+<div style="display: flex">
+  <div class="homebrew_tag_l">
+    <div><strong><i class="fa fa-history"></i> Last Updated:</strong> {{ page.last_updated }}</div>
+  </div>
+  <div class="homebrew_tag_r">
+    <div><strong><i class="fa fa-code"></i> Project Status:</strong> {{ page.project_status }}</div>
+  </div>
+</div>
+</br><hr></br>
  
 {{ content }}
