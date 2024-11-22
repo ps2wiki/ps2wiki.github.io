@@ -365,13 +365,30 @@ table {
   
   }
 
+ .homebrew_tag_l {
+    flow: left;
+    text-align: center;
+  }
+  
+  .homebrew_tag_r {
+    flow: right;
+    text-align: center;
+  }
+
 @media (max-width: 400px) {
   
   .homebrew_div {
   display: flex;
   flex-direction: column;
     }
-  .homebrew_tags {
+  
+  .homebrew_tag_l {
+    flow: center;
+    text-align: center;
+  }
+  
+  .homebrew_tag_r {
+    flow: center;
     text-align: center;
   }
 }
