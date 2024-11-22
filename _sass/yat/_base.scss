@@ -370,9 +370,10 @@ table {
   .homebrew_div {
   display: flex;
   flex-direction: column;
-    
     }
-  
+  .homebrew_tags {
+    text-align: center;
+  }
 }
 
 /*------------------- FOOTER-------------------*/
