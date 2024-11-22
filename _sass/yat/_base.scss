@@ -373,6 +373,14 @@ table {
   
 }
 
+/*------------------- FOOTER-------------------*/
+
+@media (max-width: 400px) {
+.footer_font_adjust {
+  font-size: 0.75em;
+  }
+}
+
 /*------------------- ALERTS & WARNINGS -------------------*/
 
 /* warning */
