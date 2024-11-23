@@ -364,14 +364,20 @@ table {
   flex-direction: row;
   }
 
+.homebrew_tags_container {
+  display: flex;
+}
+
  .homebrew_tag_l {
     flow: left;
     text-align: left;
+    width: 50%;
   }
   
   .homebrew_tag_r {
     flow: right;
     text-align: right;
+    width: 50%;
   }
 
 @media (max-width: 400px) {
@@ -381,6 +387,9 @@ table {
   flex-direction: column;
     }
   
+.homebrew_tags_container {
+  display: inline;
+}
   .homebrew_tag_l {
     flow: center;
     text-align: left;
