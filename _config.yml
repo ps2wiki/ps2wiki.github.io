@@ -153,11 +153,11 @@ night_mode: "on"
 header_pages:
   - about.html
   - get_started.html
+  - documentation/index.html
   - links_and_sources.html
   - categories.html
   - tags.html
   - archives.html
-  - documentation/index.html
 
 # Page default value
 # defaults:
