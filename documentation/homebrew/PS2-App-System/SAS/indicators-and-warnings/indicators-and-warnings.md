@@ -5,7 +5,7 @@ subtitle: >-
   Comprehensive list of all Indicators & Warnings in Save Application System's OSDSYS icons
 
 image: https://cdn3.vectorstock.com/i/1000x1000/27/22/warning-caution-tape-black-and-yellow-line-vector-46252722.jpg
-thumbnail: https://github.com/ps2wiki/ps2wiki.github.io/blob/upstream/documentation/homebrew/PS2-App-System/SAS/introduction/sas_thumbnail.jpg?raw=true
+thumbnail: https://github.com/ps2wiki/ps2wiki.github.io/blob/upstream/documentation/homebrew/PS2-App-System/SAS/index/sas_thumbnail.jpg?raw=true
 last_updated: 2024/11/22
 project_status: In Active Development
 authors: korax
