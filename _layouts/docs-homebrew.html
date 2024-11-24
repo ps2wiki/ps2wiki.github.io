@@ -53,6 +53,8 @@ hidden:
 <script>
 function srcThumbnail() {
   document.getElementById("thumbnail").src = '{{ page.thumbnail }}';
+  document.getElementById("thumbnail").maxwidth = '150';
+  document.getElementById("thumbnail").maxheight = '150';
 }
 srcThumbnail()
 </script>
