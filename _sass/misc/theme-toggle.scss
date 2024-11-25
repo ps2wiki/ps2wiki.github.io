@@ -1,8 +1,8 @@
 .theme-toggle {
   position: relative;
-  width: $base-font-size * 7.65;
+  width: $base-font-size * 4.5;
   margin-top: 10px;
-  margin-right: 60px;
+  margin-right: 49.5px;
   margin-left: auto;
   transition: .3s cubic-bezier(.4,.03,0,1);
 
@@ -12,15 +12,15 @@
 
   label {
     display: block;
-    background-color: rgba(120,120,120,.15);
+    background-color: rgba(255,242,204,.15);
     cursor: pointer;
   }
 
-  .toggle {
+ .toggle {
     position: absolute;
     width: 50%;
     height: 100%;
-    background-color: #fff;
+    background-color: #f9cb9c;
     box-shadow: 0 2px 15px rgba(0,0,0,.15);
     transition: transform .2s cubic-bezier(0.25, 0.46, 0.45, 0.94);
   }
@@ -41,14 +41,14 @@
     line-height: 24px;
     opacity: .5;
   }
-
+  
   label .light {
-    color: #868686;
+    color: #ffe599;
     margin-left: -0.2em;
   }
 
   label .dark {
-    color: #b9b9b9;
+    color: #b4a7d6;
   }
 
   [type="checkbox"] {

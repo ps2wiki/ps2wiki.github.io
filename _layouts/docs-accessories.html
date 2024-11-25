@@ -1,0 +1,63 @@
+---
+layout: docs
+hidden:
+  - header
+  - navigator
+  - related_posts
+  - banner
+  - image
+  - title
+  - tags
+  - subtitle
+  - sidebar
+---
+
+<div style="overflow: hidden; border-radius: 10px; padding: 30px; border: 3px outset wheat; background-image: url('https://wallpapercave.com/wp/wp2328254.jpg'); background-position: center" class="homebrew_div">
+    <div style="height: 0; width: 25%; padding-bottom: 20%">
+      <div style="maxwidth: 150; maxheight: 150; float: left; margin-right: 25px; border-radius: 5px; padding: 10px; border: 2px outset white">
+        <img maxwidth="150" maxheight="150" id="thumbnail" src="https://img.freepik.com/premium-photo/painting-blue-wave-with-green-background_1258935-2628.jpg">
+      </div>
+    </div></br>
+    <div style="float: right; display: flex; flex-direction: column">
+        <div style="float: right">
+           <h1 style="font-family: Montserrat; text-align: left; font-size: 2.5em; font-weight: bold; color: #ffe599; text-shadow: 0 0 3px #000000, 0 0 5px #000000">{{ page.title }}</h1>
+        </div></br>
+        <div style="float: right">
+          <p style="font-size: 1.0em; text-align: left; font-weight: bold; color: #99b6b9; text-shadow: 0 0 3px #000000, 0 0 5px #000000">{{ page.subtitle }}</p>
+        </div>
+    </div>
+</div>  
+
+
+</br><hr>
+
+{%- include sidebar/article-menu.html -%}
+
+<div class="homebrew_tags_container">
+  <div class="homebrew_tag_l">
+    <div><strong><i class="fa fa-history"></i> Last Updated:</strong> {{ page.last_updated }}</div>
+    {% if page.authors %}
+    <div><strong><i class="fa fa-user"></i> Authors:</strong> {{ page.authors }}</div>
+    {% endif %}
+  </div>
+  <div class="homebrew_tag_r">
+    <div><strong><i class="fa fa-code"></i> Project Status:</strong> {{ page.project_status }}</div>
+    {% if page.factcheck %}
+    <div><strong><i class="fa fa-check-circle"></i> Factchecked:</strong> {{ page.factcheck }}</div>
+    {% endif %}
+  </div>
+</div>
+</br><hr></br>
+
+{% if page.thumbnail %}
+<script>
+function srcThumbnail() {
+  document.getElementById("thumbnail").src = '{{ page.thumbnail }}';
+  document.getElementById("thumbnail").maxwidth = '150';
+  document.getElementById("thumbnail").maxheight = '150';
+}
+srcThumbnail()
+</script>
+{% endif %}
+
+{{ content }}

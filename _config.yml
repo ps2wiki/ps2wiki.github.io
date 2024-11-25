@@ -23,7 +23,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
+#
 title: PS2Wiki
 email: --
 author: The PS2Wiki Team
@@ -40,7 +40,7 @@ author: The PS2Wiki Team
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "(cleft) {currentYear} {author}"
+copyright: "(c) {currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to The PS2 Homebrew Wiki! Whether you're a beginner or a seasoned modder, our tutorials have you covered with easy-to-follow guides on everything PS2! 
@@ -64,14 +64,14 @@ header_transparent: true
 # content_width: "920px"
 
 # Google analytics - GA4
-# google_analytics: [Measurement ID]
-# enableDNT: "false"
+google_analytics: "G-NW7W22XNC2"
+enableDNT: "false"
 
 # If you want to generate website sitemap, you can set true
-# sitemap: false
+sitemap: true
 
 # If you want to change site language, you can set lang option
-# lang: "en"  # default lang is en
+lang: "en"  # default lang is en
 
 # Translate languges
 # langs refer to https://cloud.google.com/translate/docs/languages
@@ -153,6 +153,7 @@ night_mode: "on"
 header_pages:
   - about.html
   - get_started.html
+  - documentation/index.html
   - links_and_sources.html
   - categories.html
   - tags.html
@@ -229,12 +230,12 @@ header_pages:
 # See https://utteranc.es/
 # set follow_site_theme true to make utterances' theme follow the site's
 
-# utterances:
-#   repo: "owner/repo"
-#   issue_term: "title"
-#   label: "utterances comment"
-#   theme: "github-light"
-#   follow_site_theme: true
+utterances:
+  repo: "ps2wiki/PS2Wiki-Comments"
+  issue_term: "pathname"
+  label: "utterances comment"
+  theme: "github-dark"
+  follow_site_theme: true
 
 # Build settings
 # highlighter: none
@@ -249,3 +250,5 @@ plugins:
   - jekyll-paginate
   - jekyll-spaceship
 
+# Exclusions
+exclude: [ 'README.md', 'LICENSE', 'Yat_Theme_MITLicense.txt' ]
