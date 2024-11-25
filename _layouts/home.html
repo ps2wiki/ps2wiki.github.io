@@ -6,10 +6,13 @@ subheading: 'Your awesome subheading'
 banner: 'default'
 ---
 
+<!-- Position --> <div style="left: 0px; width: 100%; position: absolute; margin: auto">
+<div style="padding-left: 25px; padding-right: 25px">
+  
+<!-- Page begins -->
 <h1 style="font-family: Faculty Glyphic; text-align: center; font-size: 3.5em; font-weight: bold; text-decoration: underline; color: #ffffff">The PS2 Homebrew Wiki</h1>
 <h1 style="font-size: 1.35em; text-align: center; font-weight: bold; color: #99b6b9">From Apps to Exploits, Games to Mods, the one website for all things PS2 Homebrew</h1>
-</br></br></br></br></br>
-
+</br>
 <style>
 body {
   background-image: url('/assets/images/ps2wiki_bg.jpg');
@@ -17,15 +20,32 @@ body {
 </style>
 
 
-<!-- Position --> <div style="left: 0px; position: absolute">
+<!-- Terms of Service Notice -->
+<div style="position: absolute"><div id="termsofservice" class="tos">
+  <span class="clbtn" onclick="this.parentElement.style.display='none';"><i class="fa fa-times-circle"></i></span>
+  <strong>Important:</strong> Please read the <a href="https://ps2wiki.github.io/about.html#terms-of-service">Terms of Service</a> in <a href="https://ps2wiki.github.io/about.html">About</a> before using the site. Thankyou.
+</div>
+<script>
+setTimeout(()=>{
+    const tos=document.getElementById('termsofservice');
+    tos.style.display='none' ;
+  },10000);
+</script></br></div>
+</br></br></br></br></br>
   
-<!-- News --> <div style="padding-left: 25px; padding-right: 25px"><div class="home_news_block">
-<img src="https://i.imgur.com/1UZvuCz.gif"/> <strong style="font-size: 1.10em">Open PS2 Loader v1.2.0-Beta-2172 has been released on <a href="https://github.com/ps2homebrew/Open-PS2-Loader/releases/tag/latest">GitHub<sup><i class="fa fa-paperclip"></i></sup></a> !</strong></div></div>
+<!-- News --> <div class="home_news_block">
+<img src="https://i.imgur.com/1UZvuCz.gif"/><strong style="font-size: 1.10em">{{ page.news }}</strong></div></div>
 
-<!-- Site Guide & Latest Posts --> <div class="home_multi_post_block">
-
+<!-- Tips, Site Guide & Latest Posts --> <div class="home_multi_post_block">
 <div style="left: 10px; right: 12.5px">
 <div class="home_siteguide_and_misc_parent">
+
+<!-- Tips -->
+<div style="right: 12.5px; border-radius: 10px; padding: 5px; padding-right: 10px; border: 3px outset #ffffff; background-color: #4e58a2; color: #eeeeee" class="home_daily_tips">
+<img src="https://i.imgur.com/jaqbxYW.gif"/><strong style="font-size: 1.0em">{{ page.tips }}</strong>
+</div></br>
+  
+<!-- Site Guide -->
 <div style="right: 12.5px; border-radius: 10px; padding: 30px; border: 3px outset #ffffff; background-color: #122021; color: #eeeeee" class="home_site_guide">
   <h1 style="font-size: 27.5px; color: #ffffff">➤ Site Guide</h1>
   <hr></br>
@@ -34,6 +54,9 @@ body {
   </br></br><hr></br>
   <h3><a href="https://ps2wiki.github.io/get_started.html">➽ Get Started</a></h3>
   Everything you need to 'Get Started' with PS2 Modding! (>ᴗ•)
+  </br></br><hr></br>
+  <h3><a href="https://ps2wiki.github.io/documentation">➽ Docs</a></h3>
+  Find documenation on specific Homebrew, Accessories & Mods here
   </br></br><hr></br>
   <h3><a href="https://ps2wiki.github.io/links_and_sources.html">➽ Links & Sources</a></h3>
   Useful links to downloads and other resources
@@ -51,16 +74,18 @@ body {
 <!-- Miscellaneous --> <div style="right: 12.5px; border-radius: 10px; padding: 30px; border: 3px outset #ffffff; background-color: #21292f; color: #eeeeee" class="home_miscellaneous">
   <h1 style="font-size: 27.5px; color: #ffffff">➤ Miscellaneous</h1>
   <hr></br>
-  <h3><a href="https://github.com/ps2wiki/ps2wiki.github.io/issues/new?assignees=koraxial&labels=documentation%2Cpost-idea&projects=&template=post-ideas.yml&title=%5BPost+Idea%5D%3A+">➽ Contributing</a></h3>
+  <h3><a href="https://github.com/ps2wiki/Contributing">➽ Contributing</a></h3>
   Have new ideas or want to help improve existing stuff? Learn about how you can contribute!
   </br></br><hr></br>
-  
-
+  <h3><a href="https://ps2wiki.github.io">➽ SAS App Archive <sup><img height="12.5" src="https://i.imgur.com/kH2Rhu6.gif"/></sup></a></h3>
+  The one place to download all* PS2 Apps! </br>
+  <sub>*Only MC installable apps available</sub>
+  </br></br><hr></br>
 </div></div></div></br>
   
 <div style="padding: 6.25px"></div>
   
-<div style="width: 80%; left: 12.5px; right: 12.5px; border-radius: 10px; padding: 30px; border: 3px outset #ffffff; background-color: #0c1516; color: #eeeeee" class="home_latest_posts">
+<div style="max-height: 1500px; overflow-y: auto;  overflow-x: hidden; width: 80%; left: 12.5px; right: 12.5px; border-radius: 10px; padding: 30px; border: 3px outset #ffffff; background-color: #0c1516; color: #eeeeee" class="home_latest_posts">
    <h1 style="font-size: 27.5px; color: #ffffff">➤ Latest Posts</h1>
   <hr></br>
   <div class="articles">
@@ -73,6 +98,6 @@ body {
 
 </div>
 
-<div style="left:0px; width: 100%; border-top: 3px outset #ffffff; color: #eeeeee">
+<div style="bottom: 0; left:0px; width: 100%; border-top: 3px outset #ffffff; color: #eeeeee">
   {%- include views/footer.html -%}
 </div></div>
