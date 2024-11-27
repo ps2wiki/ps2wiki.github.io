@@ -3,9 +3,13 @@ layout: news-and-tips
 title: News History
 ---
 
+<h1 style="font-size: 27.5px">➤ News History</h1>
+<hr></br>
+
+<div style="float: left; border-radius: 10px; padding: 20px; border: 3px outset #ffffff; background-color: #DCD9D1; color: #45818e">
 <div class="mermaid">
 timeline
-    title News History:
+    title :  
     2024/11/12 : OPL-v1.2.0-Beta-2173 Release
     2024/11/15 : OPL-v1.2.0-Beta-2173 Release
-</div>
+</div></div>
