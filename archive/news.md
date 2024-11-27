@@ -3,23 +3,6 @@ layout: news-and-tips
 title: News History
 ---
 
-<script>
-      window.addEventListener('DOMContentLoaded', function(){
-                 var config = {
-                      startOnLoad:true,
-                      htmlLabels:true,
-                      callback:function(id){
-                          console.log(id,' rendered');
-                      },
-                      flowchart:{
-                              useMaxWidth:false,
-                          }
-                  };
-                  
-                  mermaid.initialize(config);
-              },false);
-</script>
-
 <div class="mermaid">
 timeline
     title News History:
