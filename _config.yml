@@ -251,7 +251,7 @@ plugins:
   - jekyll-spaceship
 
 # Inclusions
-include: [ '/archive/', '/documentation/ ]
+include: [ '/archive/', '/documentation/' ]
 
 # Exclusions
 exclude: [ 'README.md', 'LICENSE', 'Yat_Theme_MITLicense.txt' ]
