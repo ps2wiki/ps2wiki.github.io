@@ -250,6 +250,8 @@ plugins:
   - jekyll-paginate
   - jekyll-spaceship
 
+relative_permalinks: false
+
 # Exclusions
 exclude: [ 'README.md', 'LICENSE', 'Yat_Theme_MITLicense.txt' ]
 
