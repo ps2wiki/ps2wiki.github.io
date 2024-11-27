@@ -252,3 +252,12 @@ plugins:
 
 # Exclusions
 exclude: [ 'README.md', 'LICENSE', 'Yat_Theme_MITLicense.txt' ]
+
+# Collections
+collections:
+    archive: 
+        output: true
+
+    documentation: 
+        output: true
+        layout: docs
