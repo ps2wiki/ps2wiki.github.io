@@ -257,7 +257,8 @@ exclude: [ 'README.md', 'LICENSE', 'Yat_Theme_MITLicense.txt' ]
 collections:
     archive: 
         output: true
-
+        layout: framework
+        
     documentation: 
         output: true
         layout: docs
