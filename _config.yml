@@ -157,7 +157,7 @@ header_pages:
   - links_and_sources.html
   - categories.html
   - tags.html
-  - archives.html
+  - archive/index.html
 
 # Page default value
 # defaults:
