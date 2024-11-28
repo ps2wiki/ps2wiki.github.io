@@ -239,16 +239,31 @@ utterances:
 
 # Feed
 feed:
-  categories:
-    - docs
-    - updates
-    - archive
-    - documentation
     collections:
-    - docs
-    - updates
-    - archive
-    - documentation
+     docs:
+       categories:
+        - docs
+        - updates
+        - archive
+        - documentation
+     updates:
+       categories:
+        - docs
+        - updates
+        - archive
+        - documentation
+     archive:
+       categories:
+        - docs
+        - updates
+        - archive
+        - documentation
+     documentation:
+       categories:
+        - docs
+        - updates
+        - archive
+        - documentation
     
 # Build settings
 # highlighter: none
