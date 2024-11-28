@@ -237,6 +237,13 @@ utterances:
   theme: "github-dark"
   follow_site_theme: true
 
+# Feed
+feed:
+  collections:
+    - posts
+    - documentation
+    - archive
+    
 # Build settings
 # highlighter: none
 markdown: kramdown
