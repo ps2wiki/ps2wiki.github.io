@@ -1,0 +1,23 @@
+PS2Wiki License
+
+Copyright (c) 2024 Owners - The PS2Wiki Team
+
+GitHub, GitHub Pages feature, Jekyll, Yat Theme and all files in the `_posts` and `documentation` folders are property of their respective Owners/Authors, The PS2Wiki Team does not claim ownership over them.
+
+Stated below are permissions which are granted to you as users of the PS2Wiki Project ('the Project').
+
+You are granted permission to:
+- View this work and its code.
+- Fork and modify the code on GitHub as long as it is for the purposes of contribution to the Project.
+- Use or cite any article, post or documentation from the PS2Wiki site. However, a link to the original resource must be provided or prior consent to use said resource must be taken from the Owners/Authors.
+
+If a permission is not explicitly granted to you, assume you do not have it.
+
+You are not granted permission to:
+- Host, redistribute or share files from the repository publicly. You may share a link to them from the main repository however.
+- Share information obtained from the site or the repository without crediting back to "https://ps2wiki.github.io" or "https://github.com/ps2wiki/ps2wiki.github.io".
+- Recreate, duplicate, copy or reuse any portion of the HTML, CSS or JavaScript or visual design elements or concepts which are unique to PS2Wiki either partially or in their entirety in such a way which recreates or replicates the general look and feel of the website or harms the PS2Wiki Project or The PS2Wiki Team in any way.
+
+For usage inquiries, contact the Owners of The PS2Wiki Team.
+
+All rights reserved.
