@@ -238,32 +238,7 @@ utterances:
   follow_site_theme: true
 
 # Feed
-feed:
-    collections:
-     docs:
-       categories:
-        - docs
-        - updates
-        - archive
-        - documentation
-     updates:
-       categories:
-        - docs
-        - updates
-        - archive
-        - documentation
-     archive:
-       categories:
-        - docs
-        - updates
-        - archive
-        - documentation
-     documentation:
-       categories:
-        - docs
-        - updates
-        - archive
-        - documentation
+# feed:
     
 # Build settings
 # highlighter: none
