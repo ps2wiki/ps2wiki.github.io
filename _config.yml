@@ -239,10 +239,9 @@ utterances:
 
 # Feed
 feed:
-  collections:
-    - posts
-    - documentation
-    - archive
+  categories:
+    - docs
+    - updates
     
 # Build settings
 # highlighter: none
