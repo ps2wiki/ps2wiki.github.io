@@ -6,6 +6,7 @@ subtitle: >-
 
 image: https://cdn3.vectorstock.com/i/1000x1000/27/22/warning-caution-tape-black-and-yellow-line-vector-46252722.jpg
 thumbnail: https://github.com/ps2wiki/ps2wiki.github.io/blob/upstream/documentation/homebrew/PS2-App-System/SAS/index/sas_thumbnail.jpg?raw=true
+category: docs
 last_updated: 2024/11/25
 project_status: In Active Development
 authors: korax
