@@ -242,6 +242,13 @@ feed:
   categories:
     - docs
     - updates
+    - archive
+    - documentation
+    collections:
+    - docs
+    - updates
+    - archive
+    - documentation
     
 # Build settings
 # highlighter: none
