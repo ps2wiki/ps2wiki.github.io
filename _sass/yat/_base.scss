@@ -341,9 +341,10 @@ table {
   display: block; 
   margin-right: 12.5px;
   }
+
 @media (max-width: 400px) {
 .home_position_subparent {
-    width: 100%;
+    width: 90%;
     left: 10px; 
     right: 12.5px;
 }
@@ -357,16 +358,16 @@ table {
   }
   .home_multi_post_block {
   left: 0px;
-  width: 90%;
+  width: 80%;
   display: block; 
   margin: auto; 
   }
   .home_siteguide_and_misc_parent {
   width: 100%;
   }
-  .home_latest_posts {
+ .home_latest_posts {
   left: 0px;
-  width: 70%;
+  width: 80%;
   display: block; 
   margin-right: 12.5px;
   }
