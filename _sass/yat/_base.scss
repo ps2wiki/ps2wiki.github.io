@@ -28,11 +28,14 @@
     background-color: #134f5c; 
     color: #eeeeee;
   }
+.home_latest_posts {
+  width: 80%;
+}
 @media (max-width: 400px) {
 .home_content {
   margin-right: 20px;
 }
-  .home_news_block {
+.home_news_block {
     width: 100%;
     border-radius: 10px; 
     padding: 5px; 
@@ -57,7 +60,7 @@
 }
 .home_latest_posts {
   left: 0px;
-  width: 90%;
+  width: 77.5%;
   display: block; 
   margin-right: 30px;
 }
