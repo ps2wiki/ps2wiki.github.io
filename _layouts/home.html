@@ -6,7 +6,7 @@ subheading: 'The PS2 Homebrew Wiki'
 banner: 'default'
 ---
 
-<!-- Position --> <div style="overflow-x: hidden; position: absolute; left: 0px; width: 100%; margin: auto" class="home_parent">
+<!-- Position --> <div class="home_parent">
 
   
 <!-- Page begins -->
@@ -19,10 +19,9 @@ body {
 }
 </style>
   
-<div style="padding-left: 25px; padding-right: 25px">
 
 <!-- Terms of Service Notice -->
-<div style="position: absolute"><div id="termsofservice" class="tos">
+<div style="padding-left: 25px; padding-right: 25px"><div style="position: absolute"><div id="termsofservice" class="tos">
   <span class="clbtn" onclick="this.parentElement.style.display='none';"><i class="fa fa-times-circle"></i></span>
   <strong>Important:</strong> Please read the <a href="https://ps2wiki.github.io/about.html#terms-of-service">Terms of Service</a> in <a href="https://ps2wiki.github.io/about.html">About</a> before using the site. Thankyou.
 </div>
@@ -31,12 +30,13 @@ setTimeout(()=>{
     const tos=document.getElementById('termsofservice');
     tos.style.display='none' ;
   },10000);
-</script></br></div>
+</script></br></div></div>
 </br></br></br></br></br>
-  
+
+<div class="home_content">
 <!-- News --> <div class="home_news_block">
 <a style="font-size: 10px; color: #bf9000" href="https://ps2wiki.github.io/archive/news.html" class="clbtn">Previous News<sup>[↗]</sup></a>
-<img src="https://i.imgur.com/1UZvuCz.gif"/><strong style="font-size: 1.10em">{{ page.news }}</strong></div></div>
+<img src="https://i.imgur.com/1UZvuCz.gif"/><strong style="font-size: 1.10em">{{ page.news }}</strong></div>
 
 <!-- Tips, Site Guide & Latest Posts --> <div class="home_multi_post_block">
 <div class="home_post_subparent">
@@ -98,7 +98,7 @@ setTimeout(()=>{
   {% include views/pagination.html %}
 </div></div>
 
-</div>
+</div></div>
 
 <div style="width: 100%; bottom: 0px; border-top: 3px outset #ffffff; color: #eeeeee; background-color: #000000">
 {% include views/footer.html %}
