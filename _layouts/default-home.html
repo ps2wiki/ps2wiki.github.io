@@ -8,6 +8,17 @@
     
     {%- include views/header.html -%}
 
+    <!-- Night Mode -->
+    <div style="height: 0px; width: 0px" class="theme-toggle">
+      <input type="checkbox" id="theme-switch">
+      <label for="theme-switch">
+        <div style="height: 0px; width: 0px" class="toggle"></div>
+        <div style="height: 0px; width: 0px" class="names">
+          <p class="light">☀️</p>
+          <p class="dark">🌙</p>
+        </div>
+      </label>
+      </div>
     {%- assign name = 'night_mode' -%}
     {%- include functions.html func='get_value' default='on' -%}
     {%- assign night_mode = return -%}
@@ -106,7 +117,7 @@
       </script>
     
     </br></br></br>
-
+<!-- Night Mode END -->
     {%- include extensions/hashlocate.html -%}
 
     {%- include extensions/click-to-top.html -%}
