@@ -27,44 +27,44 @@
     border: 3px outset #ffffff; 
     background-color: #134f5c; 
     color: #eeeeee;
-  }
+}
 .home_latest_posts {
   width: 80%;
 }
-@media (max-width: 400px) {
-.home_content {
-  margin-right: 20px;
-}
-.home_news_block {
-    width: 100%;
-    border-radius: 10px; 
-    padding: 5px; 
-    border: 3px outset #ffffff; 
-    background-color: #134f5c; 
-    color: #eeeeee;
-  }
-.home_multi_post_block {
-  left: 0px;
-  width: 90%;
-  display: block; 
-  margin: auto; 
-}
-.home_post_subparent {
-    width: auto;
-    max-width: 100%;
-    left: 10px; 
-    right: 12.5px;
-}
-.home_siteguide_and_misc_parent {
-  width: 100%;
-}
-.home_latest_posts {
-  left: 0px;
-  width: 78.75%;
-  display: block; 
-  margin-right: 30px;
-}
 
+@media (max-width: 400px) {
+  .home_content {
+    margin-right: 20px;
+  }
+  .home_news_block {
+      width: 100%;
+      border-radius: 10px; 
+      padding: 5px; 
+      border: 3px outset #ffffff; 
+      background-color: #134f5c; 
+      color: #eeeeee;
+    }
+  .home_multi_post_block {
+    left: 0px;
+    width: 90%;
+    display: block; 
+    margin: auto; 
+  }
+  .home_post_subparent {
+      width: auto;
+      max-width: 100%;
+      left: 10px; 
+      right: 12.5px;
+  }
+  .home_siteguide_and_misc_parent {
+    width: 100%;
+  }
+  .home_latest_posts {
+    left: 0px;
+    width: 78.75%;
+    display: block; 
+    margin-right: 30px;
+  }
 }
 
 /*------------------- Homebrew Section -------------------*/
@@ -72,44 +72,38 @@
 .homebrew_div {
   display: flex;
   flex-direction: row;
-  }
-
+}
 .homebrew_tags_container {
   display: flex;
 }
-
- .homebrew_tag_l {
+.homebrew_tag_l {
     flow: left;
     text-align: left;
     width: 50%;
-  }
-  
-  .homebrew_tag_r {
+ }
+.homebrew_tag_r {
     flow: right;
     text-align: right;
     width: 50%;
-  }
+}
 
 @media (max-width: 400px) {
-  
   .homebrew_div {
-  display: flex;
-  flex-direction: column;
-    }
-  
-.homebrew_tags_container {
-  display: inline;
-}
-  .homebrew_tag_l {
-    flow: center;
-    text-align: left;
-    width: 100%;
+    display: flex;
+    flex-direction: column;
   }
-  
+  .homebrew_tags_container {
+    display: inline;
+  }
+  .homebrew_tag_l {
+      flow: center;
+      text-align: left;
+      width: 100%;
+  }
   .homebrew_tag_r {
-    flow: center;
-    text-align: left;
-    width: 100%;
+      flow: center;
+      text-align: left;
+      width: 100%;
   }
 }
 
