@@ -5,8 +5,6 @@
   {%- include head.html -%}
 
   <body>
-    
-    {%- include views/header.html -%}
 
     <!-- Night Mode -->
     <div style="height: 0px; width: 0px" class="theme-toggle">
@@ -14,8 +12,8 @@
       <label for="theme-switch">
         <div style="height: 0px; width: 0px" class="toggle"></div>
         <div style="height: 0px; width: 0px" class="names">
-          <p class="light">☀️</p>
-          <p class="dark">🌙</p>
+          <p class="light"></p>
+          <p class="dark"></p>
         </div>
       </label>
       </div>
@@ -118,6 +116,9 @@
     
     </br></br></br>
 <!-- Night Mode END -->
+    
+    {%- include views/header.html -%}
+    
     {%- include extensions/hashlocate.html -%}
 
     {%- include extensions/click-to-top.html -%}
