@@ -7,7 +7,10 @@
   <body>
     
     {%- include views/header.html -%}
-    
+
+    {%- assign name = 'night_mode' -%}
+    {%- include functions.html func='get_value' default='on' -%}
+    {%- assign night_mode = return -%}
     </br></br></br>
 
     {%- include extensions/hashlocate.html -%}
