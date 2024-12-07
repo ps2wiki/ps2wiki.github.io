@@ -32,7 +32,7 @@
   width: 80%;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 800px) {
   .home_content {
     margin-right: 20px;
   }
@@ -87,7 +87,7 @@
     width: 50%;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 800px) {
   .homebrew_div {
     display: flex;
     flex-direction: column;
@@ -109,7 +109,7 @@
 
 /*------------------- FOOTER-------------------*/
 
-@media (max-width: 400px) {
+@media (max-width: 800px) {
 .footer_font_adjust {
   font-size: 0.75em;
   }
