@@ -29,6 +29,7 @@
     color: #eeeeee;
 }
 .home_latest_posts {
+  max-height: 1700px;
   width: 80%;
 }
 
@@ -60,6 +61,7 @@
     width: 100%;
   }
   .home_latest_posts {
+    max-height: 500px;
     left: 0px;
     width: 78.75%;
     display: block; 
