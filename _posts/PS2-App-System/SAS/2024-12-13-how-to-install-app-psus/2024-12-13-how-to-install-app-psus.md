@@ -3,14 +3,16 @@ layout: post
 title: How to install App PSUs
 subtitle: Easy to follow guide that demonstrates how to install SAS compliant App PSUs
 author: korax
-wiptag: In-progress
-factcheck: NA
+wiptag: Completed
+factcheck: Pending
 categories: [PS2-App-System/SAS]
 banner: 
   image: https://github.com/ps2wiki/ps2wiki.github.io/blob/upstream/_posts/PS2-App-System/SAS/2024-12-13-how-to-install-app-psus/assets/banner.png?raw=true
   opacity: 0.5
 image: https://github.com/ps2wiki/ps2wiki.github.io/blob/upstream/_posts/PS2-App-System/SAS/2024-12-13-how-to-install-app-psus/assets/banner.png?raw=true
 tags: SAS Beginner FAQ
+top: 1
+sidebar: []
 ---
 
 ### Scope 
