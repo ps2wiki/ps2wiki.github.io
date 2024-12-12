@@ -11,8 +11,6 @@ banner:
   opacity: 0.5
 image: https://images.pexels.com/photos/6429164/pexels-photo-6429164.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
 tags: Tutorial iHDD
-top: 1
-sidebar: []
 ---
 
 <h2>Format via PS2 </h2>
