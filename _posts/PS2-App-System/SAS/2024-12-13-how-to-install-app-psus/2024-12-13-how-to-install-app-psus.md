@@ -52,7 +52,10 @@ Press 'Circle' to enterthe FileBrowser, then navigate to your FAT32 formatted US
 <img style="border:2px solid #16537e" align="left | top" width="600" height="400" src="https://github.com/ps2wiki/ps2wiki.github.io/blob/upstream/_posts/PS2-App-System/SAS/2024-12-13-how-to-install-app-psus/assets/2024-12-13-how-to-install-app-psus-3.png?raw=true">
 </div><br>
 Press circle to enter it and look for the PSU(s) you want to install.  
-Tip: You can select multiple PSUs by pressing 'Cross' on each one of them a dot will appear before their name to let you know they are selected.
+<br><div class="note">
+<strong>Tip:</strong> You can select multiple PSUs by pressing 'Cross' on each one of them a dot will appear before their name to let you know they are selected.
+</div> 
+
 <div class="container">
 <img style="border:2px solid #16537e" align="left | top" width="600" height="400" src="https://github.com/ps2wiki/ps2wiki.github.io/blob/upstream/_posts/PS2-App-System/SAS/2024-12-13-how-to-install-app-psus/assets/2024-12-13-how-to-install-app-psus-5.png?raw=true">
 </div><br>
