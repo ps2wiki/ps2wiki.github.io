@@ -11,9 +11,8 @@ banner:
   opacity: 0.5
 image: https://media.istockphoto.com/id/1338845808/photo/magnifying-glass-and-biometrics-authentication-technology-with-binary-code.webp?s=2048x2048&w=is&k=20&c=crOxbW_372HXwyIZn9i1hsOd-PwFx1zBKUWHkYXsR-Y=
 tags: Tutorial Discs Backup
-top: 1
-sidebar: []
 ---
+
 <h3>Intro:</h3>
 To verify the MD5 hash of your PS2 ISOs against the Redump database, you'll want to follow a series of straightforward steps. Redump is a project dedicated to preserving the integrity of disc-based media, and by checking your ISOs against their database, you can ensure your backups are accurate. Here's a simplified guide:
 
