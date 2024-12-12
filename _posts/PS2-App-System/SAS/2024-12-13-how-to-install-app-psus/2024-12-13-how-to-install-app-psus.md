@@ -11,6 +11,7 @@ banner:
   opacity: 0.5
 image: https://github.com/ps2wiki/ps2wiki.github.io/blob/upstream/_posts/PS2-App-System/SAS/2024-12-13-how-to-install-app-psus/assets/banner.png?raw=true
 tags: SAS Beginner FAQ
+published: true
 ---
 
 ### Scope 
