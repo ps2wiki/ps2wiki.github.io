@@ -30,6 +30,7 @@
     display: flex;
 }
 .home_news_block_content {
+    float: left;
     padding-left:0px;
 }
 .home_latest_posts {
@@ -48,11 +49,10 @@
       border: 3px outset #ffffff; 
       background-color: #134f5c; 
       color: #eeeeee;
-      display: inline;
   }
   .home_news_block_content {
-  
-  padding-left:10px;
+      float: none;
+      padding-left:10px;
   }
   .home_multi_post_block {
     left: 0px;
