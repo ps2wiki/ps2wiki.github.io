@@ -28,6 +28,9 @@
     background-color: #134f5c; 
     color: #eeeeee;
 }
+.home_news_block_content {
+padding-left:0px;
+}
 .home_latest_posts {
   max-height: 1720px;
   width: 80%;
@@ -44,7 +47,10 @@
       border: 3px outset #ffffff; 
       background-color: #134f5c; 
       color: #eeeeee;
-    }
+  }
+  .home_news_block_content {
+  padding-left:10px;
+  }
   .home_multi_post_block {
     left: 0px;
     width: 90%;
