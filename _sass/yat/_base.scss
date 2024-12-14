@@ -30,6 +30,10 @@
 }
 .home_news_float {
 display: flex;
+align-items: center;
+}
+.home_news_content {
+margin-left: 0px;
 }
 .home_latest_posts {
   max-height: 1720px;
@@ -50,6 +54,10 @@ display: flex;
     }
 .home_news_float {
 display: grid;
+align-items: baseline;
+}
+.home_news_content {
+margin-left: 10px;
 }
   .home_multi_post_block {
     left: 0px;
