@@ -17,64 +17,66 @@
   display: flex;
 }
 .home_post_subparent {
-    max-width: 35%;
-    left: 10px; 
-    right: 12.5px;
+  max-width: 35%;
+  left: 10px; 
+  right: 12.5px;
 }
 .home_news_block {
+  border-radius: 10px; 
+  padding: 5px; 
+  border: 3px outset #ffffff; 
+  background-color: #134f5c; 
+  color: #eeeeee;
+}
+.home_news_float {
+  display: flex;
+}
+.home_news_block_content {
+  float: left;
+  padding-left:0px;
+}
+.home_latest_posts {
+  max-height: 1720px;
+  width: 80%;
+}
+
+@media (max-width: 800px) {
+  .home_content {
+    margin-right: 20px;
+  }
+  .home_news_block {
+    width: 100%;
     border-radius: 10px; 
     padding: 5px; 
     border: 3px outset #ffffff; 
     background-color: #134f5c; 
     color: #eeeeee;
-    display: flex
-}
-.home_news_block_content {
-    float: left;
-    padding-left:0px;
-}
-.home_latest_posts {
-    max-height: 1720px;
-    width: 80%;
-}
-
-@media (max-width: 800px) {
-  .home_content {
-      margin-right: 20px;
-  }
-  .home_news_block {
-      width: 100%;
-      border-radius: 10px; 
-      padding: 5px; 
-      border: 3px outset #ffffff; 
-      background-color: #134f5c; 
-      color: #eeeeee;
   }
   .home_news_block_content {
-      float: none;
-      padding-left:10px;
+    float: none;
+    padding-left:10px;
   }
   .home_multi_post_block {
-      left: 0px;
-      width: 90%;
-      display: block; 
-      margin: auto; 
+    left: 0px;
+    width: 90%;
+    display: block; 
+    margin: auto; 
   }
   .home_post_subparent {
-      width: auto;
-      max-width: 100%;
-      left: 10px; 
-      right: 12.5px;
+    width: auto;
+    max-width: 100%;
+    left: 10px; 
+    right: 12.5px;
   }
   .home_siteguide_and_misc_parent {
-      width: 100%;
+    width: 100%;
   }
   .home_latest_posts {
-      max-height: 500px;
-      left: 0px;
-      width: 78.75%;
-      display: block; 
-      margin-right: 30px;
+    max-height: 500px;
+    left: 0px;
+    width: 78.75%;
+    display: block; 
+    margin-right: 30px;
   }
 }
 
