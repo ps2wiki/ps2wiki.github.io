@@ -32,9 +32,6 @@
   display: flex;
   width: 100%;
 }
-.home_news_name {
-  width: 100%;
-}
 .home_news_block_content {
   float: left;
   padding-left:0px;
@@ -59,6 +56,9 @@
     border: 3px outset #ffffff; 
     background-color: #134f5c; 
     color: #eeeeee;
+  }
+  .home_news_name {
+  width: 100%;
   }
   .home_news_block_content {
     float: none;
