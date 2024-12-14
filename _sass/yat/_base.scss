@@ -17,28 +17,16 @@
   display: flex;
 }
 .home_post_subparent {
-  max-width: 35%;
-  left: 10px; 
-  right: 12.5px;
+    max-width: 35%;
+    left: 10px; 
+    right: 12.5px;
 }
 .home_news_block {
-  border-radius: 10px; 
-  padding: 5px; 
-  border: 3px outset #ffffff; 
-  background-color: #134f5c; 
-  color: #eeeeee;
-}
-.home_news_float {
-  display: inline-block;
-  width: 100%;
-}
-.home_news_child_float {
-  display: inline-block;
-  width: 85%;
-}
-.home_news_block_content {
-  float: left;
-  padding-left:0px;
+    border-radius: 10px; 
+    padding: 5px; 
+    border: 3px outset #ffffff; 
+    background-color: #134f5c; 
+    color: #eeeeee;
 }
 .home_latest_posts {
   max-height: 1720px;
@@ -49,29 +37,14 @@
   .home_content {
     margin-right: 20px;
   }
-  .home_news_float {
-    display: inline;
-    width: 100%;
-  }
-  .home_news_child_float {
-  display: inline-block;
-  width: 100%;
-  }
   .home_news_block {
-    width: 100%;
-    border-radius: 10px; 
-    padding: 5px; 
-    border: 3px outset #ffffff; 
-    background-color: #134f5c; 
-    color: #eeeeee;
-  }
-  .home_news_name {
-  width: 100%;
-  }
-  .home_news_block_content {
-    float: none;
-    padding-left:10px;
-  }
+      width: 100%;
+      border-radius: 10px; 
+      padding: 5px; 
+      border: 3px outset #ffffff; 
+      background-color: #134f5c; 
+      color: #eeeeee;
+    }
   .home_multi_post_block {
     left: 0px;
     width: 90%;
@@ -79,10 +52,10 @@
     margin: auto; 
   }
   .home_post_subparent {
-    width: auto;
-    max-width: 100%;
-    left: 10px; 
-    right: 12.5px;
+      width: auto;
+      max-width: 100%;
+      left: 10px; 
+      right: 12.5px;
   }
   .home_siteguide_and_misc_parent {
     width: 100%;
@@ -95,7 +68,6 @@
     margin-right: 30px;
   }
 }
-
 /*------------------- Homebrew Section -------------------*/
 
 .homebrew_div {
