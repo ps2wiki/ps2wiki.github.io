@@ -27,19 +27,20 @@
     border: 3px outset #ffffff; 
     background-color: #134f5c; 
     color: #eeeeee;
+    display: flex
 }
 .home_news_block_content {
     float: left;
     padding-left:0px;
 }
 .home_latest_posts {
-  max-height: 1720px;
-  width: 80%;
+    max-height: 1720px;
+    width: 80%;
 }
 
 @media (max-width: 800px) {
   .home_content {
-    margin-right: 20px;
+      margin-right: 20px;
   }
   .home_news_block {
       width: 100%;
@@ -54,10 +55,10 @@
       padding-left:10px;
   }
   .home_multi_post_block {
-    left: 0px;
-    width: 90%;
-    display: block; 
-    margin: auto; 
+      left: 0px;
+      width: 90%;
+      display: block; 
+      margin: auto; 
   }
   .home_post_subparent {
       width: auto;
@@ -66,14 +67,14 @@
       right: 12.5px;
   }
   .home_siteguide_and_misc_parent {
-    width: 100%;
+      width: 100%;
   }
   .home_latest_posts {
-    max-height: 500px;
-    left: 0px;
-    width: 78.75%;
-    display: block; 
-    margin-right: 30px;
+      max-height: 500px;
+      left: 0px;
+      width: 78.75%;
+      display: block; 
+      margin-right: 30px;
   }
 }
 
