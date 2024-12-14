@@ -32,6 +32,10 @@
   display: inline-block;
   width: 100%;
 }
+.home_news_child_float {
+  display: inline-block;
+  width: 85%;
+}
 .home_news_block_content {
   float: left;
   padding-left:0px;
@@ -48,6 +52,10 @@
   .home_news_float {
     display: inline;
     width: 100%;
+  }
+  .home_news_child_float {
+  display: inline-block;
+  width: 100%;
   }
   .home_news_block {
     width: 100%;
