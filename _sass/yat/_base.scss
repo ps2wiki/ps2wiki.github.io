@@ -28,6 +28,9 @@
     background-color: #134f5c; 
     color: #eeeeee;
 }
+.home_news_float {
+display: flex;
+}
 .home_latest_posts {
   max-height: 1720px;
   width: 80%;
@@ -45,6 +48,9 @@
       background-color: #134f5c; 
       color: #eeeeee;
     }
+.home_news_float {
+display: block;
+}
   .home_multi_post_block {
     left: 0px;
     width: 90%;
