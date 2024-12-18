@@ -13,7 +13,7 @@ image: https://github.com/ps2wiki/ps2wiki.github.io/blob/upstream/_posts/PS2-App
 tags: SAS Beginner FAQ
 ---
 
-<h3>Scope</h3> 
+### Scope
 This guide will walk you through the very very basics of installing an App via it's SAS Compliant APP PSU* in your MemoryCard.
 
 <h3>What is an App PSU</h3>
