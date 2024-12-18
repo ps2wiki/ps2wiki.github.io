@@ -43,7 +43,8 @@ You'll need:
 </ol>
 
 <h3>Steps</h3>
-<h4>Step 1: Open LaunchELF</h4>
+
+<h4>Step 1- Open LaunchELF</h4>
 Once you are in LaunchELF, check the version to make sure the one you are using can extract PSUs.<br><br>
 <div class="container">
     <img style="border:2px solid #16537e" align="left | top" width="600" height="400" src="https://github.com/ps2wiki/ps2wiki.github.io/blob/upstream/_posts/PS2-App-System/SAS/2024-12-13-how-to-install-app-psus/assets/2024-12-13-how-to-install-app-psus-1.png?raw=true">
