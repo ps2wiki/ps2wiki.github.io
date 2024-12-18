@@ -16,12 +16,12 @@ tags: SAS Beginner FAQ
 <h3>Scope</h3> 
 This guide will walk you through the very very basics of installing an App via it's SAS Compliant APP PSU* in your MemoryCard.
 
-<h3>What is an App PSU?</h3>
+<h3>What is an App PSU</h3>
 Before beginning, you might ask yourself what is an APP PSU and why do we need it? For starters a PSU file is like a .zip file for the PS2, we can use it to pack stuff on the console. 
 Much like zip files, if you package some files in a PSU they remain exactly in the same position after extraction. The reason this is useful is that we can package PS2 executables (or ELFs) along with other interesting stuff like icons and configuration into 1 easy to share and install file.
 PSUs also preserve the timestamp data of the package, allowing for pinned applications within the PS2 Browser or knowing when an app was last updated.
 
-<h3>What makes a PSU SAS Compliant?</h3>
+<h3>What makes a PSU SAS Compliant</h3>
 SAS is a new upcoming standard on the PS2 which aims to unify how apps work and interact with each other on the PS2. When we talk about a SAS Compliant PSU we mean a PSU which has the following:
 <ul>
   <li>A 'prefix' to denote what 'type' of Application is in the package. Example: <code>SYS</code> for System-Apps, <code>GME</code> for Games, <code>APP</code> for Standard executables.</li>
