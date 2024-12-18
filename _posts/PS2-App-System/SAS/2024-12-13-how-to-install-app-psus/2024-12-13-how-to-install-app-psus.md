@@ -13,15 +13,15 @@ image: https://github.com/ps2wiki/ps2wiki.github.io/blob/upstream/_posts/PS2-App
 tags: SAS Beginner FAQ
 ---
 
-### ➔ Scope
+### ➛ Scope
 This guide will walk you through the very very basics of installing an App via it's SAS Compliant APP PSU* in your MemoryCard.
 
-### ➔ What is an App PSU?
+### ➛ What is an App PSU?
 Before beginning, you might ask yourself what is an APP PSU and why do we need it? For starters a PSU file is like a .zip file for the PS2, we can use it to pack stuff on the console. 
 Much like zip files, if you package some files in a PSU they remain exactly in the same position after extraction. The reason this is useful is that we can package PS2 executables (or ELFs) along with other interesting stuff like icons and configuration into 1 easy to share and install file.
 PSUs also preserve the timestamp data of the package, allowing for pinned applications within the PS2 Browser or knowing when an app was last updated.
 
-### ➔ What makes a PSU 'SAS Compliant'?
+### ➛ What makes a PSU 'SAS Compliant'?
 SAS is a new upcoming standard on the PS2 which aims to unify how apps work and interact with each other on the PS2. When we talk about a SAS Compliant PSU we mean a PSU which has the following:
 <ul>
   <li>A 'prefix' to denote what 'type' of Application is in the package. Example: <code>SYS</code> for System-Apps, <code>GME</code> for Games, <code>APP</code> for Standard executables.</li>
@@ -32,7 +32,7 @@ SAS is a new upcoming standard on the PS2 which aims to unify how apps work and 
 
 Now that we know what we are working with let us move on to the... 
 
-### ➔ Prerequisites
+### ➛ Prerequisites
 You'll need:
 <ol>
   <li>A MemoryCard with atleast 1MB free space</li>
@@ -42,7 +42,7 @@ You'll need:
   <li>Patience to follow the guide (Most important)</li>
 </ol>
 
-### ➔ Steps
+### ➛ Steps
 
 #### Step 1: Open LaunchELF
 Once you are in LaunchELF, check the version to make sure the one you are using can extract PSUs.<br><br>
