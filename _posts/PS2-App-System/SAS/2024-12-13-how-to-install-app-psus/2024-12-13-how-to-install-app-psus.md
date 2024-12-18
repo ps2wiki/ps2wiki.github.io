@@ -44,7 +44,7 @@ You'll need:
 
 <h3>Steps</h3>
 
-<h4>Step 1- Open LaunchELF</h4>
+<h4>Step 1 Open LaunchELF</h4>
 Once you are in LaunchELF, check the version to make sure the one you are using can extract PSUs.<br><br>
 <div class="container">
     <img style="border:2px solid #16537e" align="left | top" width="600" height="400" src="https://github.com/ps2wiki/ps2wiki.github.io/blob/upstream/_posts/PS2-App-System/SAS/2024-12-13-how-to-install-app-psus/assets/2024-12-13-how-to-install-app-psus-1.png?raw=true">
@@ -53,7 +53,7 @@ Once you are in LaunchELF, check the version to make sure the one you are using 
 <img style="border:2px solid #16537e" align="left | top" width="600" height="400" src="https://github.com/ps2wiki/ps2wiki.github.io/blob/upstream/_posts/PS2-App-System/SAS/2024-12-13-how-to-install-app-psus/assets/2024-12-13-how-to-install-app-psus-2.png?raw=true">
 </div><br>
 
-<h4>Step 2- Find the PSU</h4>
+<h4>Step 2 Find the PSU</h4>
 Press 'Circle' to enter the FileBrowser, then navigate to your FAT32 formatted USB <br><br>
 <div class="container">
 <img style="border:2px solid #16537e" align="left | top" width="600" height="400" src="https://github.com/ps2wiki/ps2wiki.github.io/blob/upstream/_posts/PS2-App-System/SAS/2024-12-13-how-to-install-app-psus/assets/2024-12-13-how-to-install-app-psus-3.png?raw=true">
@@ -68,7 +68,7 @@ Once you have highlighted the PSU you want to install, Press 'R1' to bring up th
 <div class="container">
 <img style="border:2px solid #16537e" align="left | top" width="600" height="400" src="https://github.com/ps2wiki/ps2wiki.github.io/blob/upstream/_posts/PS2-App-System/SAS/2024-12-13-how-to-install-app-psus/assets/2024-12-13-how-to-install-app-psus-6.png?raw=true">
 </div><br>
-<h4>Step 3- Installing</h4>
+<h4>Step 3 Installing</h4>
 Once you have successfully 'Copied' the file (check the box on the right), we will now paste it.<br><br>
 <div class="container">
 <img style="border:2px solid #16537e" align="left | top" width="600" height="400" src="https://github.com/ps2wiki/ps2wiki.github.io/blob/upstream/_posts/PS2-App-System/SAS/2024-12-13-how-to-install-app-psus/assets/2024-12-13-how-to-install-app-psus-7.png?raw=true">
@@ -93,7 +93,7 @@ Once the dialogue box disappears, the app should be installed on your MemoryCard
 <img style="border:2px solid #16537e" align="left | top" width="600" height="400" src="https://github.com/ps2wiki/ps2wiki.github.io/blob/upstream/_posts/PS2-App-System/SAS/2024-12-13-how-to-install-app-psus/assets/2024-12-13-how-to-install-app-psus-12.png?raw=true">
 </div><br>
 
-<h4>Step 4- Verification</h4>
+<h4>Step 4 Verification</h4>
 You can verify if everything is installed as expected. <br><br>
 <div class="container">
 <img style="border:2px solid #16537e" align="left | top" width="600" height="400" src="https://github.com/ps2wiki/ps2wiki.github.io/blob/upstream/_posts/PS2-App-System/SAS/2024-12-13-how-to-install-app-psus/assets/2024-12-13-how-to-install-app-psus-13.png?raw=true">
@@ -103,7 +103,7 @@ Now reboot your PS2 and naviagte to the 'Browser' and 'MemoryCard 1 or 2' (depen
 <img style="border:2px solid #16537e" align="left | top" width="600" height="400" src="https://github.com/ps2wiki/ps2wiki.github.io/blob/upstream/_posts/PS2-App-System/SAS/2024-12-13-how-to-install-app-psus/assets/2024-12-13-how-to-install-app-psus-14.png?raw=true">
 </div><br>
 
-<h4>Step 5- Rinse and Repeat!</h4>
+<h4>Step 5 Rinse and Repeat!</h4>
 Congratulations! Now that you have learned how to install SAS Compliant APP PSUs you are ready to install whatever apps you may desire. <br><br>
 <div class="container">
 <img style="border:2px solid #16537e" align="left | top" width="600" height="400" src="https://github.com/ps2wiki/ps2wiki.github.io/blob/upstream/_posts/PS2-App-System/SAS/2024-12-13-how-to-install-app-psus/assets/2024-12-13-how-to-install-app-psus-15.png?raw=true">
