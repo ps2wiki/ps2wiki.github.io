@@ -103,7 +103,7 @@ Now reboot your PS2 and naviagte to the 'Browser' and 'MemoryCard 1 or 2' (depen
 <img style="border:2px solid #16537e" align="left | top" width="600" height="400" src="https://github.com/ps2wiki/ps2wiki.github.io/blob/upstream/_posts/PS2-App-System/SAS/2024-12-13-how-to-install-app-psus/assets/2024-12-13-how-to-install-app-psus-14.png?raw=true">
 </div><br>
 
-<h4>Step 5 Rinse and Repeat!</h4>
+<h4>Step 5 Rinse and Repeat</h4>
 Congratulations! Now that you have learned how to install SAS Compliant APP PSUs you are ready to install whatever apps you may desire. <br><br>
 <div class="container">
 <img style="border:2px solid #16537e" align="left | top" width="600" height="400" src="https://github.com/ps2wiki/ps2wiki.github.io/blob/upstream/_posts/PS2-App-System/SAS/2024-12-13-how-to-install-app-psus/assets/2024-12-13-how-to-install-app-psus-15.png?raw=true">
