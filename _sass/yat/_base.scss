@@ -187,7 +187,40 @@ width: 95%;
   color: black;
 }
 
+/* ----- xmas -----*/
+.superclass {
+  cursor: url(/assets/xmas/cursor/cursor-0.png), auto;
+  -webkit-animation: cursor 400ms infinite;
+  animation: cursor 400ms infinite;
+}
 
+@-webkit-keyframes cursor {
+  0% {cursor: url(/assets/xmas/cursor/cursor-0.png), auto;}
+  10% {cursor: url(/assets/xmas/cursor/cursor-1.png), auto;}
+  20% {cursor: url(/assets/xmas/cursor/cursor-2.png), auto;}
+  30% {cursor: url(/assets/xmas/cursor/cursor-3.png), auto;}
+  40% {cursor: url(/assets/xmas/cursor/cursor-4.png), auto;}
+  50% {cursor: url(/assets/xmas/cursor/cursor-5.png), auto;}
+  60% {cursor: url(/assets/xmas/cursor/cursor-6.png), auto;}
+  70% {cursor: url(/assets/xmas/cursor/cursor-7.png), auto;}
+  80% {cursor: url(/assets/xmas/cursor/cursor-8.png), auto;}
+  90% {cursor: url(/assets/xmas/cursor/cursor-9.png), auto;}
+  100% {cursor: url(/assets/xmas/cursor/cursor-0.png), auto;}
+} 
+
+@keyframes cursor {
+  0% {cursor: url(/assets/xmas/cursor/cursor-0.png), auto;}
+  10% {cursor: url(/assets/xmas/cursor/cursor-1.png), auto;}
+  20% {cursor: url(assets/xmas/cursor/cursor-2.png), auto;}
+  30% {cursor: url(assets/xmas/cursor/cursor-3.png), auto;}
+  40% {cursor: url(assets/xmas/cursor/cursor-4.png), auto;}
+  50% {cursor: url(assets/xmas/cursor/cursor-5.png), auto;}
+  60% {cursor: url(/assets/xmas/cursor/cursor-6.png), auto;}
+  70% {cursor: url(/assets/xmas/cursor/cursor-7.png), auto;}
+  80% {cursor: url(/assets/xmas/cursor/cursor-8.png), auto;}
+  90% {cursor: url(/assets/xmas/cursor/cursor-9.png), auto;}
+  100% {cursor: url(/assets/xmas/cursor/cursor-0.png), auto;}
+}
 
 /**
  * Reset some basic elements
@@ -211,6 +244,7 @@ body {
   font-display: swap;
   line-height: #{$base-line-height};
   color: $text-color;
+  cursor: url(/ps2wiki/assets/xmas/cursor/cursor-0.png), auto;
   background-color: $background-color;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
