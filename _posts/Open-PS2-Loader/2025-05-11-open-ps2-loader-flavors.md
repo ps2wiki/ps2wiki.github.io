@@ -35,7 +35,7 @@ The file "<span style="color:#0F86FF">OPNPS2LD.7z</span>" contains the zipped al
 
 If you need a specific build, you can find them all [here](https://mega.nz/folder/Ndwi1bAK#oLWNhH_g-h0p4BoT4c556A/folder/FR4Q3YgC).
 
-<p align="center"><img src="./images/opl.png" width=50%"/></p>
+<p align="center"><img src="https://www.psx-place.com/data/attachments/44/44451-337b977395038b14775f6d8891d5c501.jpg" width=50%"/></p>
 
 ## E2OPL <sup>[[1](https://sourceforge.net/projects/e2opl/files/)]</sup>
 Fork adding support for the EXT2 file system, based on (if I remember correctly) OPL v0.9.3.
@@ -58,7 +58,7 @@ That is, **OPL DB** or **OPL TA**. Although the name suggests that it is the off
 - Due to the integration of the PSX emulator, it includes an ELM category where PSX disc images are listed. While this is a very important functionality for many, please note that OPL can do the same, only not in a dedicated category, but in APPS (e.g. [that way]()).
 - Additional assets in themes (e.g. third frame for screenshot, game logo).
 
-<p align="center"><img src="./images/opl_db.png" width=50%"/></p>
+<p align="center"><img src="https://www.psx-place.com/data/attachments/44/44452-c9817122c2ed37dfffc3643206b484a8.jpg" width=50%"/></p>
 
 ## Open PS2 Loader v1-MOD <sup>[[1](https://github.com/SvenGDK/Open-PS2-Loader/releases)]</sup>
 Fork based on OPL v1.0.0, with some changes from more recent versions backported.
@@ -70,7 +70,7 @@ Fork based on OPL v1.0.0, with some changes from more recent versions backported
 - Supports guitars from the PS3
 - Enables booting of games via OPL-Launcher on DESR models.
 
-<p align="center"><img src="./images/opl_v1mod.png" width=50%"/></p>
+<p align="center"><img src="https://www.psx-place.com/data/attachments/44/44455-ac1c2136e002216137177992da3abb69.jpg" width=50%"/></p>
 
 ## Open PS2 Loader Modular PADEMU <sup>[[1](https://github.com/belek666/Open-PS2-Loader/tree/modularPademu)]</sup>
 OPL fork with joypad support for Xbox 360. Unfortunately unfinished, only source code available.
@@ -86,7 +86,7 @@ That is, **OPL GD** (unofficial abbreviation). Fork focusing on support for an i
 #### Unique Features:
 - Support for exFAT and GPT (this functionality has now been added to OPL v1.2.0).
 
-<p align="center"><img src="./images/opl_gd.png" width=50%"/></p>
+<p align="center"><img src="https://www.psx-place.com/data/attachments/44/44453-15cd93245d925c5f4db43b981e886fda.jpg" width=50%"/></p>
 
 ## X2P <sup>[[1](https://github.com/koraxial/Xbox-2-PlayStation-Emulator-AlFa/releases)]</sup>
 **Xbox-to-PlayStation** is a fork based on the OPL 1.2.0 Beta build **2081**. Although it was just an April Fools' joke (X2P pretends to be an Xbox Classic emulator for the PS2), it is still a full-fledged OPL that can be used almost in the same way as any other (it differs in folder names for covers, disc images, etc.).
@@ -94,7 +94,7 @@ That is, **OPL GD** (unofficial abbreviation). Fork focusing on support for an i
 #### Version:
 - 0.5.4 alpha 17022 REV5
 
-<p align="center"><img src="./images/x2p.png" width=50%"/></p>
+<p align="center"><img src="https://www.psx-place.com/data/attachments/44/44459-5a6851550d25953e3909c5cca4b1f681.jpg" width=50%"/></p>
 
 ## unofficial Open PS2 Loader <sup>[[1](https://www.psx-place.com/resources/abandoned-unofficial-open-ps2-loader-uopl.1523/)][[2](https://github.com/NathanNeurotic/uOPL/releases)]</sup>
 That is, **uOPL**. Fork based on OPL v1.2.0 beta build 2049, but backported to PS2SDK v1.0.
@@ -109,8 +109,8 @@ That is, **uOPL**. Fork based on OPL v1.2.0 beta build 2049, but backported to P
 - Support for multiple partitions and multiple BDMs at once (this functionality has now been added to OPL v1.2.0).
 - Cover Flow style theme (but there is also a classic list).
 
-<p align="center"><img src="./images/uopl_1.png" width=50%"/></p>
-<p align="center"><img src="./images/uopl_2.png" width=50%"/></p>
+<p align="center"><img src="https://www.psx-place.com/data/attachments/44/44456-6453d8a44fba81bcdcf6958a60678ca3.jpg" width=50%"/></p>
+<p align="center"><img src="https://www.psx-place.com/data/attachments/44/44457-2209020c5336bb21ece6ac5bbd956088.jpg" width=50%"/></p>
 
 ## Open PS2 Loader MMCE <sup>[[1](https://github.com/ps2-mmce/Open-PS2-Loader/releases)]</sup>
 That is, the **OPL MMCE**. Fork dedicated to memory card emulators such as **[SD2PSX](https://sd2psx.net/)**, **[PSXMCG2](https://www.bitfunx.com/product/psxmemcard-gen2-memory-card-for-playstation1-ps-one-playstation2-game-consoles/)** or **[MCP2](https://www.8bitmods.wiki/memcard-pro2)**.
@@ -123,4 +123,4 @@ That is, the **OPL MMCE**. Fork dedicated to memory card emulators such as **[SD
 - Enables automatic switching of the virtual PS2 card to match the game's GameID.
 - Allows the loading of disc images from a microSD card inserted in the MMCE.
 
-<p align="center"><img src="./images/opl_mmce.png" width=50%"/></p>
+<p align="center"><img src="https://www.psx-place.com/data/attachments/44/44454-81644aa3df8dc45eaa4c861f7305f6ad.jpg" width=50%"/></p>
