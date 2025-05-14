@@ -36,7 +36,7 @@ The file "<span style="color:#0F86FF">OPNPS2LD.7z</span>" contains the zipped al
 If you need a specific build, you can find them all [here](https://mega.nz/folder/Ndwi1bAK#oLWNhH_g-h0p4BoT4c556A/folder/FR4Q3YgC).
 
 <div class="container">
-<img style="border:2px solid #16537e" align="left | top" width="600" height="400" src="https://www.psx-place.com/data/attachments/44/44451-337b977395038b14775f6d8891d5c501.jpg">
+<img style="border:2px solid #16537e" align="left | top" width="683" height="512" src="https://www.psx-place.com/data/attachments/44/44451-337b977395038b14775f6d8891d5c501.jpg">
 </div><br>
 
 
@@ -62,7 +62,7 @@ That is, **OPL DB** or **OPL TA**. Although the name suggests that it is the off
 - Additional assets in themes (e.g. third frame for screenshot, game logo).
 
 <div class="container">
-<img style="border:2px solid #16537e" align="left | top" width="600" height="400" src="https://www.psx-place.com/data/attachments/44/44452-c9817122c2ed37dfffc3643206b484a8.jpg">
+<img style="border:2px solid #16537e" align="left | top" width="683" height="512" src="https://www.psx-place.com/data/attachments/44/44452-c9817122c2ed37dfffc3643206b484a8.jpg">
 </div><br>
 
 ## Open PS2 Loader v1-MOD <sup>[[1](https://github.com/SvenGDK/Open-PS2-Loader/releases)]</sup>
@@ -76,7 +76,7 @@ Fork based on OPL v1.0.0, with some changes from more recent versions backported
 - Enables booting of games via OPL-Launcher on DESR models.
 
 <div class="container">
-<img style="border:2px solid #16537e" align="left | top" width="600" height="400" src="https://www.psx-place.com/data/attachments/44/44455-ac1c2136e002216137177992da3abb69.jpg">
+<img style="border:2px solid #16537e" align="left | top" width="683" height="512" src="https://www.psx-place.com/data/attachments/44/44455-ac1c2136e002216137177992da3abb69.jpg">
 </div><br>
 
 
@@ -95,7 +95,7 @@ That is, **OPL GD** (unofficial abbreviation). Fork focusing on support for an i
 - Support for exFAT and GPT (this functionality has now been added to OPL v1.2.0).
 
 <div class="container">
-<img style="border:2px solid #16537e" align="left | top" width="600" height="400" src="https://www.psx-place.com/data/attachments/44/44453-15cd93245d925c5f4db43b981e886fda.jpg">
+<img style="border:2px solid #16537e" align="left | top" width="683" height="512" src="https://www.psx-place.com/data/attachments/44/44453-15cd93245d925c5f4db43b981e886fda.jpg">
 </div><br>
 
 
@@ -106,7 +106,7 @@ That is, **OPL GD** (unofficial abbreviation). Fork focusing on support for an i
 - 0.5.4 alpha 17022 REV5
 
 <div class="container">
-<img style="border:2px solid #16537e" align="left | top" width="600" height="400" src="https://www.psx-place.com/data/attachments/44/44459-5a6851550d25953e3909c5cca4b1f681.jpg">
+<img style="border:2px solid #16537e" align="left | top" width="683" height="512" src="https://www.psx-place.com/data/attachments/44/44459-5a6851550d25953e3909c5cca4b1f681.jpg">
 </div><br>
 
 
@@ -124,10 +124,10 @@ That is, **uOPL**. Fork based on OPL v1.2.0 beta build 2049, but backported to P
 - Cover Flow style theme (but there is also a classic list).
 
 <div class="container">
-<img style="border:2px solid #16537e" align="left | top" width="600" height="400" src="https://www.psx-place.com/data/attachments/44/44456-6453d8a44fba81bcdcf6958a60678ca3.jpg">
+<img style="border:2px solid #16537e" align="left | top" width="683" height="512" src="https://www.psx-place.com/data/attachments/44/44456-6453d8a44fba81bcdcf6958a60678ca3.jpg">
 </div><br>
 <div class="container">
-<img style="border:2px solid #16537e" align="left | top" width="600" height="400" src="https://www.psx-place.com/data/attachments/44/44457-2209020c5336bb21ece6ac5bbd956088.jpg">
+<img style="border:2px solid #16537e" align="left | top" width="683" height="512" src="https://www.psx-place.com/data/attachments/44/44457-2209020c5336bb21ece6ac5bbd956088.jpg">
 </div><br>
 
 
@@ -143,5 +143,5 @@ That is, the **OPL MMCE**. Fork dedicated to memory card emulators such as **[SD
 - Allows the loading of disc images from a microSD card inserted in the MMCE.
 
 <div class="container">
-<img style="border:2px solid #16537e" align="left | top" width="600" height="400" src="https://www.psx-place.com/data/attachments/44/44454-81644aa3df8dc45eaa4c861f7305f6ad.jpg">
+<img style="border:2px solid #16537e" align="left | top" width="683" height="512" src="https://www.psx-place.com/data/attachments/44/44454-81644aa3df8dc45eaa4c861f7305f6ad.jpg">
 </div><br>
