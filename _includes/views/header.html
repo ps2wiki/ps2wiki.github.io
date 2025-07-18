@@ -39,7 +39,9 @@
               <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | upcase | escape }}</a>
               {%- endif -%}
             {%- endfor -%}
-
+            
+            <a class="page-link" href="https://ps2wiki.github.io/search"> <i class="fas fa-search"></i></a>
+            
             {%- assign name = 'translate_langs' -%}
             {%- include functions.html func='get_value' -%}
             {%- assign translate_langs = return -%}
