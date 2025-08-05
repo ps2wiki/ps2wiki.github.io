@@ -3,7 +3,8 @@ layout: docs-general
 title: Internal Memory VS External Memory
 subtitle: >-
   Description and comparison of different storage mediums used by the PS2
-
+description: >-
+  Description and comparison of different storage mediums used by the PS2
 image: https://img4.dhresource.com/webp/m/0x0/f3/albu/jc/s/09/b6343f23-fd05-4413-aafb-1ba7b38dc6cc.jpg
 thumbnail: https://img4.dhresource.com/webp/m/0x0/f3/albu/jc/s/09/b6343f23-fd05-4413-aafb-1ba7b38dc6cc.jpg
 category: docs
