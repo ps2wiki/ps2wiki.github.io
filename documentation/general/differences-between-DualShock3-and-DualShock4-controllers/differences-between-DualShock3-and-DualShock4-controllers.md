@@ -3,6 +3,8 @@ layout: docs-general
 title: Differences between DualShock 3 & DualShock 4 Controllers
 subtitle: >- 
    The DualShock 3 (DS3) and DualShock 4 (DS4) controllers, both from Sony, have similarities but differ in button functionality, layout, and sensor technology. This is a breakdown of the buttons and differences between these two controllers.
+description: >- 
+   The DualShock 3 (DS3) and DualShock 4 (DS4) controllers, both from Sony, have similarities but differ in button functionality, layout, and sensor technology. This is a breakdown of the buttons and differences between these two controllers.
 image: https://www.trustedreviews.com/wp-content/uploads/sites/54/2013/08/Sony-PS4-DualShock4-vs-Dual-1.jpg
 thumbnail: https://www.trustedreviews.com/wp-content/uploads/sites/54/2013/08/Sony-PS4-DualShock4-vs-Dual-1.jpg
 category: docs
