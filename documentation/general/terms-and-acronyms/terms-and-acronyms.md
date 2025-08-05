@@ -3,7 +3,8 @@ layout: docs-general
 title: Terms & Acronyms
 subtitle: >-
   This list is meant as an introduction to all the acronyms and terms used in the PS2 Homebrew Scene
-
+description: >-
+  This list is meant as an introduction to all the acronyms and terms used in the PS2 Homebrew Scene
 image: https://media.istockphoto.com/id/1175294239/photo/acronym-word-from-wooden-blocks-with-letters.webp?s=2048x2048&w=is&k=20&c=5tjM7GGKSvhEDJlMmWInz9q3NmWq1ytegO2X3sjZP5I=
 thumbnail: https://media.istockphoto.com/id/1175294239/photo/acronym-word-from-wooden-blocks-with-letters.webp?s=2048x2048&w=is&k=20&c=5tjM7GGKSvhEDJlMmWInz9q3NmWq1ytegO2X3sjZP5I=
 category: docs
