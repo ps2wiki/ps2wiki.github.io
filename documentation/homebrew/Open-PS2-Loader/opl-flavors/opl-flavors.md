@@ -3,7 +3,8 @@ layout: docs-homebrew
 title: Open PS2 Loader flavors
 subtitle: >-
   A description of how versions and flavors of Open PS2 Loader flavors differ from the each other
-
+description: >-
+  A description of how versions and flavors of Open PS2 Loader flavors differ from the each other
 image: https://www.psx-place.com/attachments/opl-logo-2025-png.45831/
 thumbnail: https://www.psx-place.com/attachments/opl-logo-2025-png.45831/
 category: docs
