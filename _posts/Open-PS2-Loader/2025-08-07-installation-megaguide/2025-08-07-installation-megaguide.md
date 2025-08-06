@@ -32,11 +32,13 @@ OPL is a game and application loader compatible with all PS2 & backwards compati
 - SMBv1 share devices
 - UPDBD
 - iLink (SBP2 compliant storage devices via IEE1394)
-It supports loading files in the
+
+It supports loading files in the:
 - *.iso
 - *.zso
-- .elf (for APPS)
+- .elf (for APPS)  
 formats.
+
 Along with this, OPL is also capable of advanced features like resolution switching (upto 1080i) via **GSM**,
 emulating other gamepads like DS3/DS4 and passing them as PS2 compatible DualShock 2 controllers via **PADEMU ** and also injecting cheats into games at runtime.
 
