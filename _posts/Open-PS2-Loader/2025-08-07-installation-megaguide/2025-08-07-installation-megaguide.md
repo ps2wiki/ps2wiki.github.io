@@ -5,7 +5,7 @@ subtitle: Easy to follow guide to upgrade/setup/troubleshoot Open PS2 Loader ins
 author: korax
 wiptag: Not Completed
 factcheck: Article Incomplete
-categories: [Open PS2 Loader]
+categories: [Open-PS2-Loader]
 # banner: 
 #  image: NA
 #  opacity: 0.5
