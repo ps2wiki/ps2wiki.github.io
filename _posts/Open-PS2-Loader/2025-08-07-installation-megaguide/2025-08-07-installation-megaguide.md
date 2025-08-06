@@ -6,10 +6,10 @@ author: korax
 wiptag: Not Completed
 factcheck: Article Incomplete
 categories: [Open PS2 Loader]
-banner: 
-  image: NA
-  opacity: 0.5
-image: NA
+# banner: 
+#  image: NA
+#  opacity: 0.5
+# image: NA
 tags: OPL Beginner FAQ
 ---
 
