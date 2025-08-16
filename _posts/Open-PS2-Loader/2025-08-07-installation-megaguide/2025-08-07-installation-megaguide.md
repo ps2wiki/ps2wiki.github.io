@@ -148,7 +148,7 @@ If you have a Slimline model PS2, you can use these setups below (sorted: best t
 
 ### ➛ iLink 
 
-<details>
+<details class="collapsible">
   <summary>Requirements</summary>
     1. SCPH-50XXX model PS2
     2. ??
