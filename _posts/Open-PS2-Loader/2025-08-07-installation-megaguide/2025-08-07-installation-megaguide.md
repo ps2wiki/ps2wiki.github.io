@@ -72,56 +72,86 @@ If you have a Slimline model PS2, you can use these setups below (sorted: best t
 
 ### ➛ APA Jail
 
-> Requirements:
-> 1. Phat model PS2
-> 2. Network Adaptor
-> 3. HDD/SSD
+<button type="button" class="collapsible">Requirements:</button>
+<div class="content">
+  <p>
+    1. Phat model PS2
+    2. Network Adaptor
+    3. HDD/SSD
+  </p></div>
 
 ### ➛ exFAT format HDD 
 
-> Requirements:
-> 1. Phat model PS2
-> 2. Network Adaptor
-> 3. HDD/SSD
+<button type="button" class="collapsible">Requirements:</button>
+<div class="content">
+  <p>
+    1. Phat model PS2
+    2. Network Adaptor
+    3. HDD/SSD
+  </p></div>
 
-### ➛ APA HDD Method
+### ➛ APA format HDD 
 
-> Requirements:
-> 1. Phat model PS2
-> 2. Network Adaptor
-> 3. HDD/SSD
+<button type="button" class="collapsible">Requirements:</button>
+<div class="content">
+  <p>
+    1. Phat model PS2
+    2. Network Adaptor
+    3. HDD/SSD
+  </p></div>
+
 
 ### ➛  MMCE
 
-> Requirements:
-> 1. Any model PS2
-> 2. MMCE device like SD2PSX, Memcard Pro 2
+<button type="button" class="collapsible">Requirements:</button>
+<div class="content">
+  <p>
+    1. Any model PS2
+    2. MMCE device like SD2PSX, Memcard Pro 2
+  </p></div>
 
 ### ➛  MX4SIO
 
-> Requirements:
-> 1. Any model PS2
-> 2. MX4SIO card
+<button type="button" class="collapsible">Requirements:</button>
+<div class="content">
+  <p>
+    1. Any model PS2
+    2. MX4SIO Card
+  </p></div>
 
 ### ➛  UDPBD 
 
-> Requirements:
-> 1. Any model PS2
-> 2. Network Adaptor (if Phat model PS2s)
+<button type="button" class="collapsible">Requirements:</button>
+<div class="content">
+  <p>
+    1. Any model PS2
+    2. Network Adaptor (if Phat model PS2s)
+  </p></div>
 
 ### ➛ SMBv1 share 
 
-> Requirements:
-> 1. Any model PS2
-> 2. Network Adaptor (if Phat model PS2s)
+<button type="button" class="collapsible">Requirements:</button>
+<div class="content">
+  <p>
+    1. Any model PS2
+    2. Network Adaptor (if Phat model PS2s)
+  </p></div>
 
 ### ➛  exFAT format USB Storage
-> Requirements:
-> 1. Any model PS2
-> 2. USB Storage medium like Pendrive, external HDD
+
+<button type="button" class="collapsible">Requirements:</button>
+<div class="content">
+  <p>
+    1. Any model PS2
+    2. USB Storage medium like Pendrive, external HDD
+  </p></div>
 
 ### ➛ iLink 
-> Requirements:
-> 1. <SCPH-50XXX model PS2
-> 2. ??
+
+<button type="button" class="collapsible">Requirements:</button>
+<div class="content">
+  <p>
+    1. <SCPH-50XXX model PS2
+    2. ??
+  </p></div>
 
