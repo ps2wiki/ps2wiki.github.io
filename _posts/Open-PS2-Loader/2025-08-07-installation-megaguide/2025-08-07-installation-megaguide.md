@@ -49,7 +49,6 @@ Now that we have a good idea of *what OPL is*, we will now proceed to understand
 <div class="note">
  <strong>Note: </strong>It is recommended that you read <a href="https://ps2wiki.github.io/get_started.html#Getting-started-with-PS2-Modding-1">this section of 'Get Started'</a> to find out about the various PS2 Models.
 </div> 
-</br>
 
 #### For Phat PS2s
 If you have a Phat model PS2 or a SCPH-70XXX model slim with the IDE HDD mod, you can use these setups below (sorted: best to worst):
