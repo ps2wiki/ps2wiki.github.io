@@ -125,7 +125,7 @@ width: 95%;
   }
 }
 
-/*------------------- FOOTER-------------------*/
+/*------------------- FOOTER -------------------*/
 
 @media (max-width: 800px) {
 .footer_font_adjust {
@@ -186,6 +186,31 @@ width: 95%;
 .clbtn:hover {
   color: black;
 }
+
+/*------------------- COLLAPSIBLES -------------------*/
+.collapsible {
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: #555;
+}
+
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
+}
+
 
 /* ----- cursor -----*/
 .superclass {
