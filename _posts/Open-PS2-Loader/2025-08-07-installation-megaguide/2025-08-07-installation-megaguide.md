@@ -72,84 +72,74 @@ If you have a Slimline model PS2, you can use these setups below (sorted: best t
 
 ### ➛ APA Jail
 
-<button type="button" class="collapsible">Requirements</button>
-<div class="content">
-  <p>
-    1. Phat model PS2
-    2. Network Adaptor
-    3. HDD/SSD
-  </p></div>
+<details class="collapsible">
+  <summary>Requirements</summary>
+    1. Phat model PS2  
+    2. Network Adaptor  
+    3. HDD/SSD  
+</details>
 
 ### ➛ exFAT format HDD 
 
-<button type="button" class="collapsible">Requirements</button>
-<div class="content">
-  <p>
-    1. Phat model PS2
-    2. Network Adaptor
-    3. HDD/SSD
-  </p></div>
+<details class="collapsible">
+  <summary>Requirements</summary>
+    1. Phat model PS2  
+    2. Network Adaptor  
+    3. HDD/SSD  
+</details>
 
 ### ➛ APA format HDD 
-
-<button type="button" class="collapsible">Requirements</button>
-<div class="content">
-  <p>
-    1. Phat model PS2
-    2. Network Adaptor
-    3. HDD/SSD
-  </p></div>
-
+<details class="collapsible">
+  <summary>Requirements</summary>
+    1. Phat model PS2  
+    2. Network Adaptor  
+    3. HDD/SSD  
+</details>
 
 ### ➛  MMCE
 
-<button type="button" class="collapsible">Requirements</button>
-<div class="content">
-  <p>
-    1. Any model PS2
-    2. MMCE device like SD2PSX, Memcard Pro 2
-  </p></div>
+<details class="collapsible">
+  <summary>Requirements</summary>
+    1. Any model PS2  
+    2. MMCE device like SD2PSX, Memcard Pro 2  
+</details>
 
 ### ➛  MX4SIO
 
-<button type="button" class="collapsible">Requirements</button>
-<div class="content">
-  <p>
-    1. Any model PS2
-    2. MX4SIO Card
-  </p></div>
+<details class="collapsible">
+  <summary>Requirements</summary>
+    1. Any model PS2  
+    2. MX4SIO Card  
+</details>
 
 ### ➛  UDPBD 
 
-<button type="button" class="collapsible">Requirements</button>
-<div class="content">
-  <p>
-    1. Any model PS2
-    2. Network Adaptor (if Phat model PS2s)
-  </p></div>
+<details class="collapsible">
+  <summary>Requirements</summary>
+    1. Any model PS2  
+    2. Network Adaptor (if Phat model PS2s)  
+</details>
 
 ### ➛ SMBv1 share 
 
-<button type="button" class="collapsible">Requirements</button>
-<div class="content">
-  <p>
-    1. Any model PS2
-    2. Network Adaptor (if Phat model PS2s)
-  </p></div>
+<details class="collapsible">
+  <summary>Requirements</summary>
+    1. Any model PS2  
+    2. Network Adaptor (if Phat model PS2s)  
+</details>
 
 ### ➛  exFAT format USB Storage
 
-<button type="button" class="collapsible">Requirements</button>
-<div class="content">
-  <p>
-    1. Any model PS2
+<details class="collapsible">
+  <summary>Requirements</summary>
+    1. Any model PS2  
     2. USB Storage medium like Pendrive, external HDD
-  </p></div>
+</details>
 
 ### ➛ iLink 
 
 <details class="collapsible">
   <summary>Requirements</summary>
-    1. SCPH-50XXX model PS2
+    1. SCPH-50XXX model PS2  
     2. ??
 </details>
