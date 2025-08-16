@@ -148,10 +148,8 @@ If you have a Slimline model PS2, you can use these setups below (sorted: best t
 
 ### ➛ iLink 
 
-<button type="button" class="collapsible">Requirements</button>
-<div class="content">
-  <p>
+<details>
+  <summary>Requirements</summary>
     1. SCPH-50XXX model PS2
     2. ??
-  </p></div>
-  
+</details>
