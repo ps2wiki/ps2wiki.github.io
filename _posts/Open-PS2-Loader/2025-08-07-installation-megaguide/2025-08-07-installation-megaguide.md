@@ -43,6 +43,86 @@ Along with this, OPL is also capable of advanced features like resolution switch
 emulating other gamepads like DS3/DS4 and passing them as PS2 compatible DualShock 2 controllers via **PADEMU ** and also injecting cheats into games at runtime.
 
 
-### ➛ Determining the best configuration for our OPL install:
-Now that we have a good idea of *what OPL is*, we will now proceed to understand the various configurations it can be adapted to so you can determine which one works best with your particular setup.
+### ➛ Determining the best configuration for our OPL install
+Now that we have a good idea of *what OPL is*, we will now proceed to understand the various configurations it can be adapted to so you can determine which one works best with your particular setup. 
+
+<div class="note">
+ <strong>Note: </strong>It is recommended that you read <a href="https://ps2wiki.github.io/get_started.html#Getting-started-with-PS2-Modding-1">this section of 'Get Started'</a> to find out about the various PS2 Models.
+</div> 
+</br>
+
+#### For Phat PS2s
+If you have a Phat model PS2 or a SCPH-70XXX model slim with the IDE HDD mod, you can use these setups below (sorted: best to worst):
+1. APA Jail setup (APA Partitions + exFAT partitions on same disk)
+2. Pure exFAT format HDD 
+3. APA HDD Method
+4. MMCE
+5. MX4SIO
+6. UDPBD 
+7. SMBv1 share 
+8. exFAT format USB Storage
+9. iLink (only on models <SCPH-50XXX)
+
+#### For Slim PS2s
+If you have a Slimline model PS2, you can use these setups below (sorted: best to worst):
+1. MMCE
+2. MX4SIO
+3. UDPBD 
+4. SMBv1 share 
+5. exFAT format USB Storage
+
+### ➛ APA Jail
+
+> Requirements:
+> 1. Phat model PS2
+> 2. Network Adaptor
+> 3. HDD/SSD
+
+### ➛ exFAT format HDD 
+
+> Requirements:
+> 1. Phat model PS2
+> 2. Network Adaptor
+> 3. HDD/SSD
+
+### ➛ APA HDD Method
+
+> Requirements:
+> 1. Phat model PS2
+> 2. Network Adaptor
+> 3. HDD/SSD
+
+### ➛  MMCE
+
+> Requirements:
+> 1. Any model PS2
+> 2. MMCE device like SD2PSX, Memcard Pro 2
+
+### ➛  MX4SIO
+
+> Requirements:
+> 1. Any model PS2
+> 2. MX4SIO card
+
+### ➛  UDPBD 
+
+> Requirements:
+> 1. Any model PS2
+> 2. Network Adaptor (if Phat model PS2s)
+
+### ➛ SMBv1 share 
+
+> Requirements:
+> 1. Any model PS2
+> 2. Network Adaptor (if Phat model PS2s)
+
+### ➛  exFAT format USB Storage
+> Requirements:
+> 1. Any model PS2
+> 2. USB Storage medium like Pendrive, external HDD
+
+### ➛ iLink 
+> Requirements:
+> 1. <SCPH-50XXX model PS2
+> 2. ??
 
