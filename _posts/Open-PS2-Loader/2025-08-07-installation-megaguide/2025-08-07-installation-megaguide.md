@@ -160,7 +160,7 @@ If you have a Slimline model PS2, you can use these setups below (sorted: best t
 
 
 <!-- Script-->
-<script>
+<body><script>
 var coll = document.getElementsByClassName("collapsible");
 var i;
 
@@ -175,4 +175,4 @@ for (i = 0; i < coll.length; i++) {
     }
   });
 }
-</script>
+</script></body>
