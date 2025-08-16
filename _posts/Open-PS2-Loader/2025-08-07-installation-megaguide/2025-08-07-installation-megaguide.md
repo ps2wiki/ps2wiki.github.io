@@ -50,7 +50,7 @@ Now that we have a good idea of *what OPL is*, we will now proceed to understand
  <strong>Note: </strong>It is recommended that you read <a href="https://ps2wiki.github.io/get_started.html#Getting-started-with-PS2-Modding-1">this section of 'Get Started'</a> to find out about the various PS2 Models.
 </div> 
 
-#### For Phat PS2s
+#### - For Phat PS2s
 If you have a Phat model PS2 or a SCPH-70XXX model slim with the IDE HDD mod, you can use these setups below (sorted: best to worst):
 1. APA Jail setup (APA Partitions + exFAT partitions on same disk)
 2. Pure exFAT format HDD 
@@ -62,7 +62,7 @@ If you have a Phat model PS2 or a SCPH-70XXX model slim with the IDE HDD mod, yo
 8. exFAT format USB Storage
 9. iLink (only on models <SCPH-50XXX)
 
-#### For Slim PS2s
+#### - For Slim PS2s
 If you have a Slimline model PS2, you can use these setups below (sorted: best to worst):
 1. MMCE
 2. MX4SIO
