@@ -155,6 +155,3 @@ If you have a Slimline model PS2, you can use these setups below (sorted: best t
     2. ??
   </p></div>
   
-DEMO
-
-[DEMO](http://www.google.com){: .btn}
