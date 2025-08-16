@@ -74,8 +74,8 @@ If you have a Slimline model PS2, you can use these setups below (sorted: best t
 
 <details class="collapsible">
   <summary>Requirements</summary>
-    1. Phat model PS2  
-    2. Network Adaptor  
+    1. Phat model PS2  <br>
+    2. Network Adaptor  <br>
     3. HDD/SSD  
 </details>
 
@@ -83,16 +83,16 @@ If you have a Slimline model PS2, you can use these setups below (sorted: best t
 
 <details class="collapsible">
   <summary>Requirements</summary>
-    1. Phat model PS2  
-    2. Network Adaptor  
+    1. Phat model PS2  <br>
+    2. Network Adaptor  <br>
     3. HDD/SSD  
 </details>
 
 ### ➛ APA format HDD 
 <details class="collapsible">
   <summary>Requirements</summary>
-    1. Phat model PS2  
-    2. Network Adaptor  
+    1. Phat model PS2  <br>
+    2. Network Adaptor  <br>
     3. HDD/SSD  
 </details>
 
@@ -100,7 +100,7 @@ If you have a Slimline model PS2, you can use these setups below (sorted: best t
 
 <details class="collapsible">
   <summary>Requirements</summary>
-    1. Any model PS2  
+    1. Any model PS2  <br>
     2. MMCE device like SD2PSX, Memcard Pro 2  
 </details>
 
@@ -108,7 +108,7 @@ If you have a Slimline model PS2, you can use these setups below (sorted: best t
 
 <details class="collapsible">
   <summary>Requirements</summary>
-    1. Any model PS2  
+    1. Any model PS2  <br>
     2. MX4SIO Card  
 </details>
 
@@ -116,7 +116,7 @@ If you have a Slimline model PS2, you can use these setups below (sorted: best t
 
 <details class="collapsible">
   <summary>Requirements</summary>
-    1. Any model PS2  
+    1. Any model PS2  <br>
     2. Network Adaptor (if Phat model PS2s)  
 </details>
 
@@ -124,7 +124,7 @@ If you have a Slimline model PS2, you can use these setups below (sorted: best t
 
 <details class="collapsible">
   <summary>Requirements</summary>
-    1. Any model PS2  
+    1. Any model PS2  <br>
     2. Network Adaptor (if Phat model PS2s)  
 </details>
 
@@ -132,7 +132,7 @@ If you have a Slimline model PS2, you can use these setups below (sorted: best t
 
 <details class="collapsible">
   <summary>Requirements</summary>
-    1. Any model PS2  
+    1. Any model PS2  <br>
     2. USB Storage medium like Pendrive, external HDD
 </details>
 
@@ -140,6 +140,6 @@ If you have a Slimline model PS2, you can use these setups below (sorted: best t
 
 <details class="collapsible">
   <summary>Requirements</summary>
-    1. SCPH-50XXX model PS2  
+    1. SCPH-50XXX model PS2  <br>
     2. ??
 </details>
