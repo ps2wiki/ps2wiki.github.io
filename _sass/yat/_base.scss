@@ -189,28 +189,16 @@ width: 95%;
 
 /*------------------- COLLAPSIBLES -------------------*/
 .collapsible {
-  background-color: #777;
+  background-color: #45818e;
+  border-radius: 10px; 
   color: white;
   cursor: pointer;
-  padding: 18px;
+  padding: 10px;
   width: 100%;
   border: none;
   text-align: left;
   outline: none;
-  font-size: 15px;
 }
-
-.active, .collapsible:hover {
-  background-color: #555;
-}
-
-.content {
-  padding: 0 18px;
-  display: none;
-  overflow: hidden;
-  background-color: #f1f1f1;
-}
-
 
 /* ----- cursor -----*/
 .superclass {
