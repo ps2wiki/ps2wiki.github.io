@@ -73,7 +73,7 @@ If you have a Slimline model PS2, you can use these setups below (sorted: best t
 ### ➛ APA Jail
 
 <details class="collapsible">
-  <summary>Requirements</summary>
+  <summary class="collapse_list">Requirements</summary>
     1. Phat model PS2  <br>
     2. Network Adaptor  <br>
     3. HDD/SSD  
