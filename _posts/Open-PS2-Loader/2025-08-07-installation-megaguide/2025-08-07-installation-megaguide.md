@@ -72,7 +72,7 @@ If you have a Slimline model PS2, you can use these setups below (sorted: best t
 
 ### ➛ APA Jail
 
-<button type="button" class="collapsible">Requirements:</button>
+<button type="button" class="collapsible">Requirements</button>
 <div class="content">
   <p>
     1. Phat model PS2
@@ -82,7 +82,7 @@ If you have a Slimline model PS2, you can use these setups below (sorted: best t
 
 ### ➛ exFAT format HDD 
 
-<button type="button" class="collapsible">Requirements:</button>
+<button type="button" class="collapsible">Requirements</button>
 <div class="content">
   <p>
     1. Phat model PS2
@@ -92,7 +92,7 @@ If you have a Slimline model PS2, you can use these setups below (sorted: best t
 
 ### ➛ APA format HDD 
 
-<button type="button" class="collapsible">Requirements:</button>
+<button type="button" class="collapsible">Requirements</button>
 <div class="content">
   <p>
     1. Phat model PS2
@@ -103,7 +103,7 @@ If you have a Slimline model PS2, you can use these setups below (sorted: best t
 
 ### ➛  MMCE
 
-<button type="button" class="collapsible">Requirements:</button>
+<button type="button" class="collapsible">Requirements</button>
 <div class="content">
   <p>
     1. Any model PS2
@@ -112,7 +112,7 @@ If you have a Slimline model PS2, you can use these setups below (sorted: best t
 
 ### ➛  MX4SIO
 
-<button type="button" class="collapsible">Requirements:</button>
+<button type="button" class="collapsible">Requirements</button>
 <div class="content">
   <p>
     1. Any model PS2
@@ -121,7 +121,7 @@ If you have a Slimline model PS2, you can use these setups below (sorted: best t
 
 ### ➛  UDPBD 
 
-<button type="button" class="collapsible">Requirements:</button>
+<button type="button" class="collapsible">Requirements</button>
 <div class="content">
   <p>
     1. Any model PS2
@@ -130,7 +130,7 @@ If you have a Slimline model PS2, you can use these setups below (sorted: best t
 
 ### ➛ SMBv1 share 
 
-<button type="button" class="collapsible">Requirements:</button>
+<button type="button" class="collapsible">Requirements</button>
 <div class="content">
   <p>
     1. Any model PS2
@@ -139,7 +139,7 @@ If you have a Slimline model PS2, you can use these setups below (sorted: best t
 
 ### ➛  exFAT format USB Storage
 
-<button type="button" class="collapsible">Requirements:</button>
+<button type="button" class="collapsible">Requirements</button>
 <div class="content">
   <p>
     1. Any model PS2
@@ -148,7 +148,7 @@ If you have a Slimline model PS2, you can use these setups below (sorted: best t
 
 ### ➛ iLink 
 
-<button type="button" class="collapsible">Requirements:</button>
+<button type="button" class="collapsible">Requirements</button>
 <div class="content">
   <p>
     1. SCPH-50XXX model PS2
