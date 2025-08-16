@@ -73,73 +73,82 @@ If you have a Slimline model PS2, you can use these setups below (sorted: best t
 ### ➛ APA Jail
 
 <details class="collapsible">
-  <summary class="collapse_list">Requirements</summary>
+  <summary>Requirements</summary>
+  <div class="collapse_list">
     1. Phat model PS2  <br>
     2. Network Adaptor  <br>
     3. HDD/SSD  
-</details>
+  </div></details>
 
 ### ➛ exFAT format HDD 
 
 <details class="collapsible">
   <summary>Requirements</summary>
+  <div class="collapse_list">
     1. Phat model PS2  <br>
     2. Network Adaptor  <br>
     3. HDD/SSD  
-</details>
+  </div></details>
 
 ### ➛ APA format HDD 
 <details class="collapsible">
   <summary>Requirements</summary>
+  <div class="collapse_list">
     1. Phat model PS2  <br>
     2. Network Adaptor  <br>
     3. HDD/SSD  
-</details>
+  </div></details>
 
 ### ➛  MMCE
 
 <details class="collapsible">
   <summary>Requirements</summary>
+  <div class="collapse_list">
     1. Any model PS2  <br>
     2. MMCE device like SD2PSX, Memcard Pro 2  
-</details>
+  </div></details>
 
 ### ➛  MX4SIO
 
 <details class="collapsible">
   <summary>Requirements</summary>
+  <div class="collapse_list">
     1. Any model PS2  <br>
     2. MX4SIO Card  
-</details>
+  </div></details>
 
 ### ➛  UDPBD 
 
 <details class="collapsible">
   <summary>Requirements</summary>
+  <div class="collapse_list">
     1. Any model PS2  <br>
     2. Network Adaptor (if Phat model PS2s)  
-</details>
+  </div></details>
 
 ### ➛ SMBv1 share 
 
 <details class="collapsible">
   <summary>Requirements</summary>
+  <div class="collapse_list">
     1. Any model PS2  <br>
     2. Network Adaptor (if Phat model PS2s)  
-</details>
+  </div></details>
 
 ### ➛  exFAT format USB Storage
 
 <details class="collapsible">
   <summary>Requirements</summary>
+  <div class="collapse_list">
     1. Any model PS2  <br>
     2. USB Storage medium like Pendrive, external HDD
-</details>
+  </div></details>
 
 ### ➛ iLink 
 
 <details class="collapsible">
   <summary>Requirements</summary>
+  <div class="collapse_list">
     1. SCPH-50XXX model PS2  <br>
     2. ??
-</details>
+  </div></details>
