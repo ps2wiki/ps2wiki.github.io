@@ -6,7 +6,7 @@ author: korax
 wiptag: Not Completed
 factcheck: Article Incomplete
 categories: [Open-PS2-Loader]
- banner: 
+banner: 
   image: https://raw.githubusercontent.com/ps2wiki/ps2wiki.github.io/refs/heads/upstream/_posts/Open-PS2-Loader/2025-08-07-installation-megaguide/assets/banner.jpg
   opacity: 0.5
  image: https://raw.githubusercontent.com/ps2wiki/ps2wiki.github.io/refs/heads/upstream/_posts/Open-PS2-Loader/2025-08-07-installation-megaguide/assets/banner.jpg
