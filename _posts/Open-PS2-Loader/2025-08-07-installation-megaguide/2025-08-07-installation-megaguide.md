@@ -150,5 +150,5 @@ If you have a Slimline model PS2, you can use these setups below (sorted: best t
   <summary>Requirements</summary>
   <div class="collapse_list">
     1. SCPH-50XXX model PS2  <br>
-    2. ??
+    2. SBP2 compliant storage devices via IEE1394
   </div></details>
