@@ -233,8 +233,8 @@ width: 95%;
 /* -- xmas -- */
 .xmas .superclass {
   cursor: url(/assets/xmas/cursor/cursor-0.png), auto;
-  -webkit-animation: cursor 1000ms infinite;
-  animation: cursor 1000ms infinite;
+  -webkit-animation: cursor 1ms infinite;
+  animation: cursor 1ms infinite;
 }
 
 @-webkit-keyframes cursor {
