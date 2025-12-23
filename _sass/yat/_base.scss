@@ -232,7 +232,7 @@ width: 95%;
 }
 /* -- xmas -- */
 .xmas .superclass {
-  cursor: url(/assets/xmas/cursor/cursor-0.png), auto;
+  cursor: url(/assets/xmas/cursor/cursor-0.png), auto !important;
   -webkit-animation: cursor 1ms infinite;
   animation: cursor 1ms infinite;
 }
