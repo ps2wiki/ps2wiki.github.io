@@ -24,7 +24,11 @@ hidden:
 </div></br>
 <style>
 body {
-  background-image: url('/assets/images/ps2wiki_bg.jpg');
+  {% if theme == 'xmas' %}
+    background-image: url('/assets/xmas/xmas_bg.png');
+  {% else %}
+    background-image: url('/assets/images/ps2wiki_bg.jpg');
+  {% endif %}
 }
 </style>
   
