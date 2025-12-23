@@ -239,12 +239,18 @@ width: 95%;
 
 @-webkit-keyframes cursor {
   0% {cursor: url(/assets/xmas/cursor/cursor-0.png), auto;}
-  100% {cursor: url(/assets/xmas/cursor/cursor-0.png), auto;}
+  25% {cursor: url(/assets/xmas/cursor/cursor-2.png), auto;}
+  50% {cursor: url(/assets/xmas/cursor/cursor-4.png), auto;}
+  75% {cursor: url(/assets/xmas/cursor/cursor-6.png), auto;}
+  100% {cursor: url(/assets/xmas/cursor/cursor-8.png), auto;}
 } 
 
 @keyframes cursor {
   0% {cursor: url(/assets/xmas/cursor/cursor-0.png), auto;}
-  100% {cursor: url(/assets/xmas/cursor/cursor-0.png), auto;}
+  25% {cursor: url(/assets/xmas/cursor/cursor-2.png), auto;}
+  50% {cursor: url(/assets/xmas/cursor/cursor-4.png), auto;}
+  75% {cursor: url(/assets/xmas/cursor/cursor-6.png), auto;}
+  100% {cursor: url(/assets/xmas/cursor/cursor-8.png), auto;}
 }
 
 /**
