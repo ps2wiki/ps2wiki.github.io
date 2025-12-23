@@ -213,7 +213,7 @@ width: 95%;
 
 /* ----- cursor ----- */
 /* -- Xmas Theme -- */
-{% if theme == 'xmas' %}
+{% if ps2wiki_theme == 'xmas' %}
 .superclass {
   cursor: url(/assets/xmas/cursor/cursor-0.png), auto;
   -webkit-animation: cursor 400ms infinite;
