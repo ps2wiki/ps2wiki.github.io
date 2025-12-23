@@ -233,8 +233,8 @@ width: 95%;
 /* -- xmas -- */
 .xmas .superclass {
   cursor: url(/assets/xmas/cursor/cursor-0.png), auto;
-  -webkit-animation: cursor 500ms infinite;
-  animation: cursor 500ms infinite;
+  -webkit-animation: cursor 1000ms infinite;
+  animation: cursor 1000ms infinite;
 }
 
 @-webkit-keyframes cursor {
@@ -248,7 +248,7 @@ width: 95%;
   70% {cursor: url(/assets/xmas/cursor/cursor-7.png), auto;}
   80% {cursor: url(/assets/xmas/cursor/cursor-8.png), auto;}
   90% {cursor: url(/assets/xmas/cursor/cursor-9.png), auto;}
-  99% {cursor: url(/assets/xmas/cursor/cursor-0.png), auto;}
+  100% {cursor: url(/assets/xmas/cursor/cursor-0.png), auto;}
 } 
 
 @keyframes cursor {
@@ -262,7 +262,7 @@ width: 95%;
   70% {cursor: url(/assets/xmas/cursor/cursor-7.png), auto;}
   80% {cursor: url(/assets/xmas/cursor/cursor-8.png), auto;}
   90% {cursor: url(/assets/xmas/cursor/cursor-9.png), auto;}
-  99% {cursor: url(/assets/xmas/cursor/cursor-0.png), auto;}
+  100% {cursor: url(/assets/xmas/cursor/cursor-0.png), auto;}
 }
 
 /**
