@@ -5,6 +5,9 @@
   {%- include head.html -%}
 
   <body><div class="superclass">
+    {% if site.ps2wiki_theme == 'xmas' %}
+      <div class="xmas">
+    {% endif %}
 
     {%- include views/header.html -%}
 
