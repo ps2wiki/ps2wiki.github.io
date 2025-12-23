@@ -212,6 +212,24 @@ width: 95%;
 }
 
 /* ----- cursor ----- */
+/* -- default -- */
+
+.superclass {
+  padding: 10px;
+  cursor: url(/assets/images/default-cursor.png), auto;
+  -webkit-animation: cursor 400ms infinite;
+  animation: cursor 400ms infinite;
+}
+
+@-webkit-keyframes cursor {
+  0% {cursor: url(/assets/images/default-cursor.png), auto;}
+  100% {cursor: url(/assets/images/default-cursor.png), auto;}
+} 
+
+@keyframes cursor {
+  0% {cursor: url(/assets/images/default-cursor.png), auto;}
+  100% {cursor: url(/assets/images/default-cursor.png), auto;}
+}
 /* -- xmas -- */
 .xmas .superclass {
   cursor: url(/assets/xmas/cursor/cursor-0.png), auto;
@@ -246,25 +264,6 @@ width: 95%;
   90% {cursor: url(/assets/xmas/cursor/cursor-9.png), auto;}
   100% {cursor: url(/assets/xmas/cursor/cursor-0.png), auto;}
 }
-/* -- default -- */
-
-.superclass {
-  padding: 10px;
-  cursor: url(/assets/images/default-cursor.png), auto;
-  -webkit-animation: cursor 400ms infinite;
-  animation: cursor 400ms infinite;
-}
-
-@-webkit-keyframes cursor {
-  0% {cursor: url(/assets/images/default-cursor.png), auto;}
-  100% {cursor: url(/assets/images/default-cursor.png), auto;}
-} 
-
-@keyframes cursor {
-  0% {cursor: url(/assets/images/default-cursor.png), auto;}
-  100% {cursor: url(/assets/images/default-cursor.png), auto;}
-}
-
 
 /**
  * Reset some basic elements
