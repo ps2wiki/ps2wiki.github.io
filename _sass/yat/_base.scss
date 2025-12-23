@@ -213,7 +213,7 @@ width: 95%;
 
 /* ----- cursor ----- */
 /* -- xmas -- */
-{% if site.ps2wiki_theme == 'xmas' %}
+if site.ps2wiki_theme == 'xmas'
   .superclass {
     cursor: url(/assets/xmas/cursor/cursor-0.png), auto;
     -webkit-animation: cursor 400ms infinite;
@@ -248,7 +248,7 @@ width: 95%;
     100% {cursor: url(/assets/xmas/cursor/cursor-0.png), auto;}
   }
 
-{% else %}
+else
 /* -- default -- */
 
   .superclass {
@@ -267,7 +267,7 @@ width: 95%;
     0% {cursor: url(/assets/images/default-cursor.png), auto;}
     100% {cursor: url(/assets/images/default-cursor.png), auto;}
   }
-{% endif %}
+endif
 
 /**
  * Reset some basic elements
