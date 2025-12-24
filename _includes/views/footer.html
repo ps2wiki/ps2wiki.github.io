@@ -6,7 +6,7 @@
       <div class="site-footer-inner">
           {%- assign currentYear = 'now' | date: "%Y" -%}
           {%- assign copyright = site.copyright
-              | replace: '{currentYear}', currentYear
+              | replace: '{currentYear}', '2024-'currentYear
               | replace: '{author}', site.author
               | replace: '(c)', '&copy;'
               | replace: '(p)', '℗'
