@@ -6,14 +6,15 @@
       <div class="site-footer-inner">
           {%- assign currentYear = 'now' | date: "%Y" -%}
           {%- assign copyright = site.copyright
-              | replace: '{currentYear}', 2024-currentYear
+              | replace: '{currentYear}', currentYear
               | replace: '{author}', site.author
               | replace: '(c)', '&copy;'
               | replace: '(p)', '℗'
               | replace: '(cleft)', '<span class="copyleft">&copy;</span>'
           -%}
         <div style="float: left; width: 50%">
-        <div>{{ copyright }}</div>
+        <!--<div>{{ copyright }}</div>-->
+        <div>© 2024-{{ site.time | date: '%Y' }} The PS2Wiki Team</div>
         <div>Powered by <a title="Jekyll is a simple, blog-aware, static site
         generator." href="https://jekyllrb.com/">Jekyll</a> &amp; <a title="Yat, yet
         another theme." href="https://github.com/jeffreytse/jekyll-theme-yat">Yat Theme</a>.</div>
