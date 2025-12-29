@@ -12,20 +12,6 @@
 {%- assign name = 'night_mode' -%}
 {%- include functions.html func='get_value' default='on' -%}
 {%- assign night_mode = return -%}
-<style> body {
- /* Theme Xmas */
-  {% if site.ps2wiki_theme == 'xmas' and site.night_mode == 'on' %}
-      background-image: url('https://raw.githubusercontent.com/ps2wiki/ps2wiki.github.io/refs/heads/upstream/assets/xmas/xmas_bg_dark.png');
-  {% elsif site.ps2wiki_theme == 'xmas' and site.night_mode == 'off' %}
-      background-image: url('https://raw.githubusercontent.com/ps2wiki/ps2wiki.github.io/refs/heads/upstream/assets/xmas/xmas_bg_light.png');
-  
-  /* Theme Default */
-  {% else %}
-      background-image: url('https://github.com/ps2wiki/sas-apps-archive/blob/upstream/assets/images/sas-apps-archive-bg.jpg?raw=true');
-  {% endif %}
-  background-position: no-repeat;
-  background-size: cover; }
-</style>
 
 <script>
   (function() {
