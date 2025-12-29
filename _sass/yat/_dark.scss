@@ -208,5 +208,7 @@ html[data-theme="dark"]  {
 }
 
 .xmas .superclass {
-  background-image: url('https://raw.githubusercontent.com/ps2wiki/ps2wiki.github.io/refs/heads/upstream/assets/xmas/xmas_bg_dark.png');
+  body {
+    background-image: url('https://raw.githubusercontent.com/ps2wiki/ps2wiki.github.io/refs/heads/upstream/assets/xmas/xmas_bg_dark.png');
+  }
 }
