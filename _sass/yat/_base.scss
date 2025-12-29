@@ -211,51 +211,6 @@ width: 95%;
   outline: none;
 }
 
-/* ----- cursor ----- */
-/* -- default -- */
-
-.superclass {
-  padding: 10px;
-  cursor: url(/assets/images/default-cursor.png), auto;
-  -webkit-animation: cursor 400ms infinite;
-  animation: cursor 400ms infinite;
-}
-
-@-webkit-keyframes cursor {
-  0% {cursor: url(/assets/images/default-cursor.png), auto;}
-  100% {cursor: url(/assets/images/default-cursor.png), auto;}
-} 
-
-@keyframes cursor {
-  0% {cursor: url(/assets/images/default-cursor.png), auto;}
-  100% {cursor: url(/assets/images/default-cursor.png), auto;}
-}
-/* -- xmas -- */
-.xmas .superclass {
-  background-image: url('https://raw.githubusercontent.com/ps2wiki/ps2wiki.github.io/refs/heads/upstream/assets/xmas/xmas_bg_light.png');
-  background-position: no-repeat;
-  background-size: cover;
-  cursor: url(/assets/xmas/cursor/cursor-0.png), auto;
-  -webkit-animation: cursor 1ms infinite;
-  animation: cursor 1ms infinite;
-}
-
-@-webkit-keyframes cursor {
-  0% {cursor: url(/assets/xmas/cursor/cursor-0.png), auto;}
-  25% {cursor: url(/assets/xmas/cursor/cursor-2.png), auto;}
-  50% {cursor: url(/assets/xmas/cursor/cursor-4.png), auto;}
-  75% {cursor: url(/assets/xmas/cursor/cursor-6.png), auto;}
-  100% {cursor: url(/assets/xmas/cursor/cursor-8.png), auto;}
-} 
-
-@keyframes cursor {
-  0% {cursor: url(/assets/xmas/cursor/cursor-0.png), auto;}
-  25% {cursor: url(/assets/xmas/cursor/cursor-2.png), auto;}
-  50% {cursor: url(/assets/xmas/cursor/cursor-4.png), auto;}
-  75% {cursor: url(/assets/xmas/cursor/cursor-6.png), auto;}
-  100% {cursor: url(/assets/xmas/cursor/cursor-8.png), auto;}
-}
-
 /**
  * Reset some basic elements
  */
@@ -572,4 +527,49 @@ table {
 ::-webkit-selection {
   color: $selection-color;
   background-color: $selection-background-color;
+}
+
+/* ----- cursor ----- */
+/* -- default -- */
+
+.superclass {
+  padding: 10px;
+  cursor: url(/assets/images/default-cursor.png), auto;
+  -webkit-animation: cursor 400ms infinite;
+  animation: cursor 400ms infinite;
+}
+
+@-webkit-keyframes cursor {
+  0% {cursor: url(/assets/images/default-cursor.png), auto;}
+  100% {cursor: url(/assets/images/default-cursor.png), auto;}
+} 
+
+@keyframes cursor {
+  0% {cursor: url(/assets/images/default-cursor.png), auto;}
+  100% {cursor: url(/assets/images/default-cursor.png), auto;}
+}
+/* -- xmas -- */
+.xmas .superclass {
+  background-image: url('https://raw.githubusercontent.com/ps2wiki/ps2wiki.github.io/refs/heads/upstream/assets/xmas/xmas_bg_light.png');
+  background-position: no-repeat;
+  background-size: cover;
+  cursor: url(/assets/xmas/cursor/cursor-0.png), auto;
+  -webkit-animation: cursor 1ms infinite;
+  animation: cursor 1ms infinite;
+}
+
+@-webkit-keyframes cursor {
+  0% {cursor: url(/assets/xmas/cursor/cursor-0.png), auto;}
+  25% {cursor: url(/assets/xmas/cursor/cursor-2.png), auto;}
+  50% {cursor: url(/assets/xmas/cursor/cursor-4.png), auto;}
+  75% {cursor: url(/assets/xmas/cursor/cursor-6.png), auto;}
+  100% {cursor: url(/assets/xmas/cursor/cursor-8.png), auto;}
+} 
+
+@keyframes cursor {
+  0% {cursor: url(/assets/xmas/cursor/cursor-0.png), auto;}
+  25% {cursor: url(/assets/xmas/cursor/cursor-2.png), auto;}
+  50% {cursor: url(/assets/xmas/cursor/cursor-4.png), auto;}
+  75% {cursor: url(/assets/xmas/cursor/cursor-6.png), auto;}
+  100% {cursor: url(/assets/xmas/cursor/cursor-8.png), auto;}
 }
