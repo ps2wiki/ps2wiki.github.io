@@ -27,6 +27,7 @@ html[data-theme="dark"]  {
       background-image: url('https://raw.githubusercontent.com/ps2wiki/ps2wiki.github.io/refs/heads/upstream/assets/xmas/xmas_bg_dark.png');
     {% else %}
       background-color: $dark-background-color;
+    {% endif %}
     
   }
 
