@@ -46,7 +46,12 @@ html[data-theme="dark"]  {
       background-color: #080808;
     }
   }
-
+  
+.xmas {
+    background-image: url('https://raw.githubusercontent.com/ps2wiki/ps2wiki.github.io/refs/heads/upstream/assets/xmas/xmas_bg_dark.png');
+    background-position: no-repeat;
+    background-size: cover;
+}
   .site-header {
     background-color: #090909;
 
@@ -207,8 +212,3 @@ html[data-theme="dark"]  {
   }
 }
 
-.xmas {
-    background-image: url('https://raw.githubusercontent.com/ps2wiki/ps2wiki.github.io/refs/heads/upstream/assets/xmas/xmas_bg_dark.png');
-    background-position: no-repeat;
-    background-size: cover;
-}
