@@ -29,5 +29,14 @@
 
     {%- include views/footer.html -%}
   </div></body>
+  <style> body {
+ /* Theme Xmas */
+  {% if site.ps2wiki_theme == 'xmas' %}
+      background-image: url('https://raw.githubusercontent.com/ps2wiki/ps2wiki.github.io/refs/heads/upstream/assets/xmas/xmas_bg_light.png');
+  /* Theme Default */
+  {% endif %}
+  background-position: no-repeat;
+  background-size: cover; }
+</style>
   {%- include extensions/mermaid.html -%}
 </html>
