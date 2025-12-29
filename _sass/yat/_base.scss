@@ -529,9 +529,8 @@ table {
   background-color: $selection-background-color;
 }
 
-/* ----- cursor ----- */
+/* ----------- THEMES ----------- */
 /* -- default -- */
-
 .superclass {
   padding: 10px;
   cursor: url(/assets/images/default-cursor.png), auto;
@@ -548,6 +547,7 @@ table {
   0% {cursor: url(/assets/images/default-cursor.png), auto;}
   100% {cursor: url(/assets/images/default-cursor.png), auto;}
 }
+
 /* -- xmas -- */
 .xmas {
   background-image: url('https://raw.githubusercontent.com/ps2wiki/ps2wiki.github.io/refs/heads/upstream/assets/xmas/xmas_bg_light.png');
