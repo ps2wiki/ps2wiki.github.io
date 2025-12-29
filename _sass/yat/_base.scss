@@ -549,12 +549,12 @@ table {
   100% {cursor: url(/assets/images/default-cursor.png), auto;}
 }
 /* -- xmas -- */
+.xmas {
+  background-image: url('https://raw.githubusercontent.com/ps2wiki/ps2wiki.github.io/refs/heads/upstream/assets/xmas/xmas_bg_light.png');
+  background-position: no-repeat;
+  background-size: cover;
+}
 .xmas .superclass {
-  body {
-    background-image: url('https://raw.githubusercontent.com/ps2wiki/ps2wiki.github.io/refs/heads/upstream/assets/xmas/xmas_bg_light.png');
-    background-position: no-repeat;
-    background-size: cover;
-  }
   cursor: url(/assets/xmas/cursor/cursor-0.png), auto;
   -webkit-animation: cursor 1ms infinite;
   animation: cursor 1ms infinite;
