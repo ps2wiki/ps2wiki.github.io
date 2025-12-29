@@ -23,7 +23,7 @@ html[data-theme="dark"]  {
 
   body {
     color: $dark-text-color;
-    background-color: $dark-background-color;
+    background-image:  url('https://raw.githubusercontent.com/ps2wiki/ps2wiki.github.io/refs/heads/upstream/assets/xmas/xmas_bg_dark.png');
   }
 
   *:not(pre) > code {
