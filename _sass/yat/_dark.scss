@@ -23,11 +23,10 @@ html[data-theme="dark"]  {
 
   body {
     color: $dark-text-color;
-    {% if site.ps2wiki_theme == 'xmas' %}
+    background-color: $dark-background-color;
+    .xmas .superclass {
       background-image: url('https://raw.githubusercontent.com/ps2wiki/ps2wiki.github.io/refs/heads/upstream/assets/xmas/xmas_bg_dark.png');
-    {% else %}
-      background-color: $dark-background-color;
-    {% endif %}
+    }
     
   }
 
