@@ -108,7 +108,7 @@ lang: "en"  # default lang is en
 # snowwhite: #ffffff
 #
 theme_color: coolblack
-ps2wiki_theme: xmas # default/xmas
+ps2wiki_theme: holi # default/xmas/holi
 #
 # Custom color as below:
 # theme_color: "#882250"
