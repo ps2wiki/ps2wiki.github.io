@@ -25,7 +25,9 @@ hidden:
 <style>
 body {
   {% if site.ps2wiki_theme == 'xmas' %}
-    background-image: url('/assets/xmas/xmas_bg.png');
+    background-image: url('/assets/themes/xmas/xmas_bg.png');
+  {% if site.ps2wiki_theme == 'holi' %}
+    background-image: url('/assets/themes/holi/background.png');
   {% else %}
     background-image: url('/assets/images/ps2wiki_bg.jpg');
   {% endif %}
